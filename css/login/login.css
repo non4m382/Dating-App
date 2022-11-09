@@ -1,0 +1,66 @@
+.container .top {
+  color: #e05e5d;
+  /* display: flex; */
+  /* display: inline-block; */
+  padding-top: 40px;
+}
+
+.container .top a:first-child {
+  padding: 0;
+  font-weight: 900;
+  color: #e05e5d;
+}
+
+.container .top a:last-child {
+  display: inline-block;
+  float: right;
+  font-weight: 900;
+  color: #e05e5d;
+}
+
+.container > i {
+  color: #e05e5d;
+  font-weight: 900;
+  margin: 20px 0;
+}
+
+.container .telephone {
+  margin-bottom: 420px;
+}
+
+.container .telephone p:first-child {
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.container .telephone .phone-number {
+  display: inline-flex;
+  margin-bottom: 12px;
+}
+
+.container .telephone .phone-number div {
+  border-bottom: 1px solid black;
+  font-weight: 900;
+  font-size: 1.5rem;
+}
+
+.container .telephone .phone-number div:nth-child(1) {
+  width: 44px;
+  margin-right: 10px;
+}
+
+.container .telephone .phone-number div:nth-child(2) {
+  width: 200px;
+}
+
+.container .telephone p:last-child {
+  color: #c7c7c7;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.container .what-if a {
+    color: #e47170;
+    font-weight: bolder;
+    text-decoration: none;
+}
