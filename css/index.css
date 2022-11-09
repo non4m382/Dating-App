@@ -1,0 +1,82 @@
+@font-face {
+  font-family: Roobert;
+  src: url(../font/Roobert-Regular.ttf);
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(../font/Inter-VariableFont_slnt_wght.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: Inter;
+}
+
+.container {
+  background-image: linear-gradient(#ff9090, #e05857);
+  height: 844px;
+  width: 390px;
+  text-align: center;
+  color: white;
+}
+
+.container .logo {
+  padding: 170px 0 80px;
+  font-family: Comfortaa;
+}
+
+.container .logo img {
+  height: 100px;
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+.container .condition {
+  width: 272px;
+  margin: 0 auto 70px;
+  font-family: Inter;
+  font-size: 1.2rem;
+}
+
+.container .condition a {
+  color: white;
+  text-decoration: underline;
+}
+
+.container .login {
+  font-size: Comfortaa;
+}
+
+.container .login .connect {
+  width: 312px;
+  padding: 10px 0;
+  background-color: white;
+  margin: 16px auto;
+  border-radius: 8px;
+  text-align: left;
+}
+
+.container .login .connect a {
+  color: #e05e5d;
+  text-decoration: none;
+  font-weight: 900;
+  font-size: 1.3rem;
+}
+
+.container .login .connect a i {
+  padding: 0 20px;
+  width: 48px;
+}
+
+.container .login > a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
