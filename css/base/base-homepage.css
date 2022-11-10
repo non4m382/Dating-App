@@ -34,6 +34,7 @@ body {
 .container .top #logo {
   width: 36px;
   height: 36px;
+  margin-right: 12px;
 }
 
 .container .top a {
@@ -44,6 +45,7 @@ body {
 
 .container .top a i {
   color: #df5655;
+  padding-top: 16px;
 }
 
 .container .top a #avatar {
@@ -107,3 +109,22 @@ body {
   /* color: #df5655; */
   margin: auto 0;
 }
+
+.container .menu {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 390px;
+  box-shadow: 0px -4px 4px rgb(50 50 50 / 15%);
+  height: 60px;
+}
+
+.container .menu a {
+  color: #707070;
+  font-weight: bolder;
+  text-decoration: none;
+  vertical-align: middle;
+  margin: auto 0;
+}
+
+
