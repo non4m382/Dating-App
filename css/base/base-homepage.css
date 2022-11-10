@@ -31,16 +31,15 @@ body {
   padding-top: 20px;
 }
 
-.container .top #logo {
-  width: 36px;
-  height: 36px;
-  margin-right: 12px;
-}
-
 .container .top a {
   width: 36px;
   height: 36px;
   float: right;
+  margin-right: 12px;
+}
+
+.container .top a:nth-child(2) {
+  margin-right: 4px;
 }
 
 .container .top a i {
@@ -126,5 +125,3 @@ body {
   vertical-align: middle;
   margin: auto 0;
 }
-
-
