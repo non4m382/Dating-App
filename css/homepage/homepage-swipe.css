@@ -1,0 +1,37 @@
+:root {
+  --blue: #589de2;
+  --red: #e15f5e;
+  --green: #5be868;
+}
+
+.container .menu a:first-child {
+  color: #e47170;
+}
+
+.container .content .action {
+  height: 132px;
+}
+
+.container .content .action span {
+  font-size: 1.8rem;
+}
+
+.container .content .action a:first-child span {
+  color: var(--blue);
+  margin-top: 32px;
+}
+
+.container .content .action a:nth-child(2) span {
+  color: var(--red);
+  margin-top: 80px;
+}
+
+.container .content .action a:nth-child(3) span {
+  color: var(--green);
+  margin-top: 80px;
+}
+
+.container .content .action a:nth-child(4) span {
+  color: var(--red);
+  margin-top: 32px;
+}
