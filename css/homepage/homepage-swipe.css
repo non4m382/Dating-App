@@ -4,6 +4,10 @@
   --green: #5be868;
 }
 
+.container {
+  position: relative;
+}
+
 .container .menu a:first-child {
   color: #e47170;
 }
