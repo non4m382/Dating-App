@@ -1,0 +1,194 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Favourite_1);
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke: #df5655;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: url(#pattern);
+      }
+
+      .cls-3 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-4 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-5 {
+        fill: #df5655;
+      }
+
+      .cls-10, .cls-6, .cls-7, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-11, .cls-12, .cls-6, .cls-7 {
+        font-size: 16px;
+      }
+
+      .cls-6 {
+        font-family: Inter-Regular, Inter;
+      }
+
+      .cls-7 {
+        font-family: Inter-Light, Inter;
+        font-weight: 300;
+      }
+
+      .cls-8 {
+        font-size: 20px;
+        font-family: Inter-Bold, Inter;
+      }
+
+      .cls-11, .cls-12, .cls-8 {
+        font-weight: 700;
+      }
+
+      .cls-9 {
+        fill: #52e760;
+      }
+
+      .cls-11, .cls-12 {
+        font-family: Comfortaa-Bold, Comfortaa;
+      }
+
+      .cls-12, .cls-15, .cls-16 {
+        fill: #707070;
+      }
+
+      .cls-13, .cls-18 {
+        fill: none;
+      }
+
+      .cls-13 {
+        stroke: #707070;
+      }
+
+      .cls-14 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-16 {
+        fill-rule: evenodd;
+      }
+
+      .cls-17 {
+        stroke: none;
+      }
+
+      .cls-19 {
+        filter: url(#Rectangle_337);
+      }
+
+      .cls-20 {
+        filter: url(#Rectangle_334);
+      }
+
+      .cls-21 {
+        filter: url(#Rectangle_165);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1080 1620">
+      <image width="1080" height="1620" xlink:href="Favourite%20-%201-image.jpg"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1080 1620">
+      <image width="1080" height="1620" xlink:href="Favourite%20-%201-image2.jpg"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1080 1620">
+      <image width="1080" height="1620" xlink:href="Favourite%20-%201-image3.jpg"/>
+    </pattern>
+    <filter id="Rectangle_165" x="-7.5" y="-8.5" width="390" height="123" filterUnits="userSpaceOnUse">
+      <feOffset dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-4" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1080 1620">
+      <image width="1080" height="1620" xlink:href="Favourite%20-%201-image4.jpg"/>
+    </pattern>
+    <filter id="Rectangle_334" x="-9" y="733" width="393" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_337" x="-9" y="733" width="393" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Favourite_1">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Favourite_1" data-name="Favourite – 1" class="cls-1">
+    <rect class="cls-10" width="375" height="812"/>
+    <g id="Rectangle_162" data-name="Rectangle 162" class="cls-2" transform="translate(20 126)">
+      <rect class="cls-17" width="149" height="193" rx="9"/>
+      <rect class="cls-18" x="1" y="1" width="147" height="191" rx="8"/>
+    </g>
+    <g id="Rectangle_164" data-name="Rectangle 164" class="cls-3" transform="translate(20 338)">
+      <rect class="cls-17" width="149" height="193" rx="9"/>
+      <rect class="cls-18" x="1" y="1" width="147" height="191" rx="8"/>
+    </g>
+    <g id="Rectangle_163" data-name="Rectangle 163" class="cls-4" transform="translate(206 126)">
+      <rect class="cls-17" width="149" height="193" rx="9"/>
+      <rect class="cls-18" x="1" y="1" width="147" height="191" rx="8"/>
+    </g>
+    <path id="commenting" class="cls-5" d="M8.068,36.616V29.2A14.6,14.6,0,0,1,4.5,19.666C4.5,11.291,11.69,4.5,20.558,4.5s16.058,6.791,16.058,15.166-7.19,15.166-16.058,15.166a16.686,16.686,0,0,1-8.443-2.262Zm12.49-5.353c6.9,0,12.49-5.192,12.49-11.6s-5.592-11.6-12.49-11.6-12.49,5.192-12.49,11.6S13.66,31.263,20.558,31.263ZM16.1,22.342a2.676,2.676,0,1,1,2.676-2.676A2.676,2.676,0,0,1,16.1,22.342Zm8.921,0a2.676,2.676,0,1,1,2.676-2.676A2.676,2.676,0,0,1,25.019,22.342Z" transform="translate(120.667 132.864)"/>
+    <path id="commenting-2" data-name="commenting" class="cls-5" d="M8.068,36.616V29.2A14.6,14.6,0,0,1,4.5,19.666C4.5,11.291,11.69,4.5,20.558,4.5s16.058,6.791,16.058,15.166-7.19,15.166-16.058,15.166a16.686,16.686,0,0,1-8.443-2.262Zm12.49-5.353c6.9,0,12.49-5.192,12.49-11.6s-5.592-11.6-12.49-11.6-12.49,5.192-12.49,11.6S13.66,31.263,20.558,31.263ZM16.1,22.342a2.676,2.676,0,1,1,2.676-2.676A2.676,2.676,0,0,1,16.1,22.342Zm8.921,0a2.676,2.676,0,1,1,2.676-2.676A2.676,2.676,0,0,1,25.019,22.342Z" transform="translate(120.667 344.864)"/>
+    <path id="commenting-3" data-name="commenting" class="cls-5" d="M8.068,36.616V29.2A14.6,14.6,0,0,1,4.5,19.666C4.5,11.291,11.69,4.5,20.558,4.5s16.058,6.791,16.058,15.166-7.19,15.166-16.058,15.166a16.686,16.686,0,0,1-8.443-2.262Zm12.49-5.353c6.9,0,12.49-5.192,12.49-11.6s-5.592-11.6-12.49-11.6-12.49,5.192-12.49,11.6S13.66,31.263,20.558,31.263ZM16.1,22.342a2.676,2.676,0,1,1,2.676-2.676A2.676,2.676,0,0,1,16.1,22.342Zm8.921,0a2.676,2.676,0,1,1,2.676-2.676A2.676,2.676,0,0,1,25.019,22.342Z" transform="translate(306.667 132.864)"/>
+    <text id="Cách_xa_1km..." data-name="Cách xa 1km..." class="cls-6" transform="translate(38 305)"><tspan x="0" y="0">Cách xa 1km...</tspan></text>
+    <text id="Cách_xa_1km...-2" data-name="Cách xa 1km..." class="cls-6" transform="translate(38 517)"><tspan x="0" y="0">Cách xa 1km...</tspan></text>
+    <text id="trực_tuyến_" data-name="trực tuyến
+" class="cls-7" transform="translate(53 261)"><tspan x="0" y="0">trực tuyến</tspan><tspan x="0" y="20"></tspan></text>
+    <text id="trực_tuyến" data-name="trực tuyến" class="cls-7" transform="translate(53 473)"><tspan x="0" y="0">trực tuyến</tspan></text>
+    <text id="trực_tuyến-2" data-name="trực tuyến" class="cls-7" transform="translate(239 261)"><tspan x="0" y="0">trực tuyến</tspan></text>
+    <text id="Cách_xa_2km..." data-name="Cách xa 2km..." class="cls-6" transform="translate(224 305)"><tspan x="0" y="0">Cách xa 2km...</tspan></text>
+    <text id="Lê_Mỹ_Ngọc" data-name="Lê Mỹ Ngọc" class="cls-8" transform="translate(38 285)"><tspan x="0" y="0">Lê Mỹ Ngọc</tspan></text>
+    <text id="Hằng_Ng." data-name="Hằng Ng." class="cls-8" transform="translate(38 497)"><tspan x="0" y="0">Hằng Ng.</tspan></text>
+    <text id="Thảo_My" data-name="Thảo My" class="cls-8" transform="translate(224 285)"><tspan x="0" y="0">Thảo My</tspan></text>
+    <circle id="Ellipse_51" data-name="Ellipse 51" class="cls-9" cx="6" cy="6" r="6" transform="translate(38 249)"/>
+    <circle id="Ellipse_53" data-name="Ellipse 53" class="cls-9" cx="6" cy="6" r="6" transform="translate(38 461)"/>
+    <circle id="Ellipse_52" data-name="Ellipse 52" class="cls-9" cx="6" cy="6" r="6" transform="translate(224 249)"/>
+    <g id="Group_97" data-name="Group 97">
+      <g class="cls-21" transform="matrix(1, 0, 0, 1, 0, 0)">
+        <rect id="Rectangle_165-2" data-name="Rectangle 165" class="cls-10" width="375" height="108"/>
+      </g>
+      <text id="Được_Thích" data-name="Được Thích" class="cls-11" transform="translate(20 92)"><tspan x="0" y="0">Được Thích</tspan></text>
+      <text id="Bạn_Thích" data-name="Bạn Thích" class="cls-12" transform="translate(145 92)"><tspan x="0" y="0">Bạn Thích</tspan></text>
+      <text id="Nội_Bật" data-name="Nội Bật" class="cls-12" transform="translate(273 92)"><tspan x="0" y="0">Nội Bật</tspan></text>
+      <line id="Line_8" data-name="Line 8" class="cls-13" y2="27" transform="translate(132 73.5)"/>
+      <line id="Line_9" data-name="Line 9" class="cls-13" y2="27" transform="translate(247 74)"/>
+      <path id="Path_12" data-name="Path 12" class="cls-5" d="M141.5,122.547h-.023a1.166,1.166,0,0,0-1.234,1.084v9.6a1.237,1.237,0,0,0,1.145,1.186,1.26,1.26,0,0,0,1.473-1.142v-8.379c9.487.612,16.968,7.571,16.968,16.067,0,6.656-4.591,12.368-11.142,14.824a8.818,8.818,0,0,1-8.777-1.529l-2.642-2.322h0l-1.563-1.373-.251-.221-4.534-3.986h0a4.921,4.921,0,0,1-1.773-4.069c.179-2.632,2.611-4.77,5.606-4.927a6.438,6.438,0,0,1,4.629,1.558h0l.343.3,1.773,1.558,1.773-1.558.343-.3h0a6.438,6.438,0,0,1,4.629-1.558c2.994.158,5.426,2.3,5.606,4.927a4.921,4.921,0,0,1-1.773,4.069h0l-2.116,1.86-3.25,2.857-.371.326-.275.241h0a1.227,1.227,0,0,0-.472,1.168,1.427,1.427,0,0,0,1.29,1.107,1.6,1.6,0,0,0,1.361-.487l5.894-5.164h0l.054-.048h0a7.367,7.367,0,0,0,2.563-5.971c-.247-3.987-3.928-7.223-8.463-7.439a9.67,9.67,0,0,0-6.793,2.253h0a9.67,9.67,0,0,0-6.793-2.253c-4.535.217-8.217,3.453-8.463,7.439a7.367,7.367,0,0,0,2.563,5.971h0l.054.048h0l8.8,7.739a11.757,11.757,0,0,0,11.379,2.144c7.843-2.661,13.406-9.351,13.406-17.183C162.451,130.791,153.073,122.547,141.5,122.547Z" transform="translate(-106.232 -100.547)"/>
+      <circle id="Ellipse_54" data-name="Ellipse 54" class="cls-14" cx="17" cy="17" r="17" transform="translate(321 22)"/>
+    </g>
+    <g class="cls-20" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_334-2" data-name="Rectangle 334" class="cls-10" width="375" height="68" transform="translate(0 744)"/>
+    </g>
+    <g class="cls-19" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_337-2" data-name="Rectangle 337" class="cls-10" width="375" height="68" transform="translate(0 744)"/>
+    </g>
+    <path id="user" class="cls-15" d="M20.27,20.27A7.135,7.135,0,1,1,27.4,13.135,7.135,7.135,0,0,1,20.27,20.27Zm0,5.351c5.683,0,10.782,1.018,14.27,5.464V34.54H6V31.085C9.488,26.638,14.587,25.621,20.27,25.621Z" transform="translate(313.46 758.854)"/>
+    <path id="heart" class="cls-16" d="M21.406,36.056C17.264,35.154,4.5,28.091,4.5,15.392A9.392,9.392,0,0,1,21.406,9.757a9.392,9.392,0,0,1,16.906,5.635C38.313,28.091,25.549,35.154,21.406,36.056Z" transform="translate(22.5 758.931)"/>
+    <path id="star" class="cls-5" d="M20.443,29.547l-9.852,5.16,1.881-10.928L4.5,16.038l11.016-1.594L20.443,4.5l4.927,9.943,11.016,1.594-7.971,7.742,1.881,10.928Z" transform="translate(166.818 758.688)"/>
+    <path id="commenting-4" data-name="commenting" class="cls-15" d="M7.764,33.876V27.091A13.357,13.357,0,0,1,4.5,18.372C4.5,10.711,11.077,4.5,19.188,4.5s14.688,6.211,14.688,13.872S27.3,32.244,19.188,32.244a15.263,15.263,0,0,1-7.723-2.069Zm11.424-4.9c6.309,0,11.424-4.749,11.424-10.608S25.5,7.764,19.188,7.764,7.764,12.513,7.764,18.372,12.879,28.98,19.188,28.98Zm-4.08-8.16a2.448,2.448,0,1,1,2.448-2.448A2.448,2.448,0,0,1,15.108,20.82Zm8.16,0a2.448,2.448,0,1,1,2.448-2.448A2.448,2.448,0,0,1,23.268,20.82Z" transform="translate(243.32 759.937)"/>
+    <g id="Group_231" data-name="Group 231" transform="translate(98.397 763.014)">
+      <path id="Polygon_44" data-name="Polygon 44" class="cls-15" d="M7.26,2.714a2,2,0,0,1,3.392,0L16,11.269a2,2,0,0,1-1.7,3.06H3.608a2,2,0,0,1-1.7-3.06Z" transform="translate(4.478)"/>
+      <rect id="Rectangle_138" data-name="Rectangle 138" class="cls-15" width="12.538" height="12.538" rx="4" transform="translate(0 17.911)"/>
+      <ellipse id="Ellipse_32" data-name="Ellipse 32" class="cls-15" cx="6.717" cy="6.717" rx="6.717" ry="6.717" transform="translate(15.225 17.016)"/>
+    </g>
+  </g>
+</svg>

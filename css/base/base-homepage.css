@@ -1,0 +1,109 @@
+@font-face {
+  font-family: Roobert;
+  src: url(../font/Roobert-Regular.ttf);
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(../font/Inter-VariableFont_slnt_wght.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: Inter;
+}
+
+.container {
+  height: 844px;
+  width: 390px;
+  /* color: white; */
+}
+
+.container .top {
+  width: 360px;
+  height: 100px;
+  padding-top: 20px;
+}
+
+.container .top #logo {
+  width: 36px;
+  height: 36px;
+}
+
+.container .top a {
+  width: 36px;
+  height: 36px;
+  float: right;
+}
+
+.container .top a i {
+  color: #df5655;
+}
+
+.container .top a #avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
+
+.container .content .swipe {
+  position: relative;
+}
+
+.container .content .swipe .img-swipe {
+  width: 360px;
+  height: 520px;
+  border-radius: 8px;
+}
+
+.container .content .swipe .name {
+  float: left;
+  position: absolute;
+  left: 8px;
+  bottom: 20px;
+  z-index: 1000;
+  /* background-color: #92ad40; */
+  padding: 5px;
+  color: #ffffff;
+  font-weight: bold;
+  display: flex;
+  font-size: 2rem;
+  font-family: Arial;
+}
+
+.container .content .swipe .name p:first-child {
+  margin-right: 40px;
+  /* font-size: 2rem; */
+}
+
+.container .content .swipe .place {
+  float: left;
+  position: absolute;
+  left: 8px;
+  bottom: 0;
+  z-index: 1000;
+  /* background-color: #92ad40; */
+  padding: 11px 8px;
+  color: #ffffff;
+  /* font-weight: bold; */
+  display: flex;
+  font-size: 1.2rem;
+  font-family: Arial;
+}
+
+.container .content .swipe .place i {
+  color: #df5655;
+  margin: auto 0;
+  margin-right: 10px;
+}
+
+.container .content .swipe .place p {
+  /* color: #df5655; */
+  margin: auto 0;
+}
