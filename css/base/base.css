@@ -1,0 +1,26 @@
+@font-face {
+  font-family: Roobert;
+  src: url(../font/Roobert-Regular.ttf);
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(../font/Inter-VariableFont_slnt_wght.ttf);
+}
+
+body {
+  margin: 0;
+  font-family: Inter;
+}
+
+.container {
+  height: 844px;
+  width: 390px;
+  /* color: white; */
+}

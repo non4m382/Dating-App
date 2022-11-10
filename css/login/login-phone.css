@@ -1,8 +1,7 @@
 .container .top {
   color: #e05e5d;
-  /* display: flex; */
-  /* display: inline-block; */
   padding-top: 40px;
+  margin-bottom: 20px;
 }
 
 .container .top a:first-child {
@@ -25,12 +24,13 @@
 }
 
 .container .telephone {
-  margin-bottom: 420px;
+  margin-bottom: 460px;
 }
 
 .container .telephone p:first-child {
   font-weight: 900;
   font-size: 1.5rem;
+  margin-bottom: 40px;
 }
 
 .container .telephone .phone-number {
@@ -45,7 +45,7 @@
 }
 
 .container .telephone .phone-number div:nth-child(1) {
-  width: 44px;
+  width: 48px;
   margin-right: 10px;
 }
 
@@ -59,8 +59,22 @@
   font-size: 0.9rem;
 }
 
-.container .what-if a {
-    color: #e47170;
-    font-weight: bolder;
-    text-decoration: none;
+.container .what-if {
+  position: absolute;
+  bottom: 40px;
+  width: 360px;
+}
+
+.container .what-if a:first-child {
+  color: #e47170;
+  font-weight: bolder;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.container .what-if a:last-child {
+  color: #e47170;
+  font-weight: bolder;
+  text-decoration: none;
+  float: right;
 }
