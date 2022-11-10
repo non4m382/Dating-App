@@ -1,0 +1,63 @@
+.container .top {
+  color: #e05e5d;
+  padding-top: 40px;
+  margin-bottom: 60px;
+}
+
+.container .top a:first-child {
+  padding: 0;
+  font-weight: 900;
+  color: #e05e5d;
+}
+
+.container .top a:last-child {
+  display: inline-block;
+  float: right;
+  font-weight: 900;
+  color: #e05e5d;
+}
+
+.container .mail {
+  margin-bottom: 460px;
+}
+
+.container .mail p {
+  font-weight: 900;
+  font-size: 1.5rem;
+  margin-bottom: 28px;
+}
+
+.container .mail .email {
+  display: inline-flex;
+  margin-bottom: 12px;
+}
+
+.container .mail .email div {
+  border-bottom: 1px solid black;
+  /* font-weight: 900; */
+  font-size: 1.5rem;
+  width: 360px;
+  margin-right: 10px;
+}
+
+
+/* what-if */
+.container .what-if {
+  position: absolute;
+  bottom: 40px;
+  width: 360px;
+}
+
+.container .what-if a:first-child {
+  color: #e47170;
+  font-weight: bolder;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.container .what-if a:last-child {
+  color: #e47170;
+  font-weight: bolder;
+  text-decoration: none;
+  float: right;
+}
