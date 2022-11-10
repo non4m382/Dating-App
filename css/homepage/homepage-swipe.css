@@ -1,80 +1,37 @@
-@font-face {
-  font-family: Roobert;
-  src: url(../font/Roobert-Regular.ttf);
+:root {
+  --blue: #589de2;
+  --red: #e15f5e;
+  --green: #5be868;
 }
 
-@font-face {
-  font-family: Comfortaa;
-  src: url(../font/Comfortaa-VariableFont_wght.ttf);
-  font-weight: bold;
+.container .menu a:first-child {
+  color: #e47170;
 }
 
-@font-face {
-  font-family: Inter;
-  src: url(../font/Inter-VariableFont_slnt_wght.ttf);
+.container .content .action {
+  height: 132px;
 }
 
-body {
-  margin: 0;
-  font-family: Inter;
+.container .content .action span {
+  font-size: 1.8rem;
 }
 
-/* .container {
-  background-image: linear-gradient(#ff9090, #e05857);
-  text-align: center;
-  color: white;
-} */
-
-/* .container .logo {
-  padding: 170px 0 80px;
-  font-family: Comfortaa;
-} */
-
-.container .logo img {
-  height: 100px;
-  width: 100px;
-  margin-bottom: 20px;
+.container .content .action a:first-child span {
+  color: var(--blue);
+  margin-top: 32px;
 }
 
-.container .condition {
-  width: 272px;
-  margin: 0 auto 70px;
-  font-family: Inter;
-  font-size: 1.2rem;
+.container .content .action a:nth-child(2) span {
+  color: var(--red);
+  margin-top: 80px;
 }
 
-.container .condition a {
-  color: white;
-  text-decoration: underline;
+.container .content .action a:nth-child(3) span {
+  color: var(--green);
+  margin-top: 80px;
 }
 
-.container .login {
-  font-size: Comfortaa;
-}
-
-.container .login .connect {
-  width: 312px;
-  padding: 10px 0;
-  background-color: white;
-  margin: 16px auto;
-  border-radius: 8px;
-  text-align: left;
-}
-
-.container .login .connect a {
-  color: #e05e5d;
-  text-decoration: none;
-  font-weight: 900;
-  font-size: 1.3rem;
-}
-
-.container .login .connect a i {
-  padding: 0 20px;
-  width: 48px;
-}
-
-.container .login > a {
-  color: white;
-  text-decoration: none;
-  font-size: 1.3rem;
+.container .content .action a:nth-child(4) span {
+  color: var(--red);
+  margin-top: 32px;
 }
