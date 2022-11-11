@@ -111,11 +111,18 @@ hr {
   float: right;
 }
 
-.checkbox:checked::before {
-  background-color: red;
-  border: 1px solid;
+input {
+  accent-color: #e74c3c;
 }
 
-input {
-  accent-color: #e74c3c
+header {
+  text-align: center;
+  /* position: relative; */
+}
+
+header a {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
 }
