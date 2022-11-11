@@ -1,5 +1,147 @@
+@font-face {
+  font-family: Roobert;
+  src: url(../../font/Roobert-Regular.ttf);
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(../../font/Inter-VariableFont_slnt_wght.ttf);
+}
 
 .container .menu a:nth-child(2) {
   color: #e47170;
 }
 
+#avatar {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  float: right;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  /* color: whitesmoke; */
+  /* font-family: cursive; */
+  position: relative;
+  font-family: Inter;
+}
+
+
+
+.container {
+  padding-top: 88px;
+  padding-bottom: 88px;
+}
+
+.container .content h5 {
+  font-weight: 900;
+  font-family: Comfortaa;
+}
+
+.container .content .trending {
+  margin-bottom: 40px;
+}
+
+.container .content .trending .row {
+  color: rgb(255, 255, 255);
+}
+
+.container .content .trending .active {
+  margin-bottom: 20px;
+  position: relative;
+}
+
+.container .content .trending .active div {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+  padding-left: 20px;
+  width: 312px;
+}
+
+.container .content .trending  img {
+  width: 360px;
+  height: 180px;
+  border-radius: 8px;
+}
+
+.container .content .hobby-list {
+  position: relative;
+  margin-bottom: 20px;
+}
+
+.container .content .hobby-list img {
+  width: 140px;
+  height: 200px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
+.container .content .hobby-list p {
+  position: absolute;
+  top: 148px;
+  left: 25px;
+  width: 312px;
+  color: white;
+  width: 132px;
+}
+
+.container .content .hobby-list h5 {
+  position: absolute;
+    top: 116px;
+    left: 25px;
+    width: 312px;
+    color: white;
+    width: 132px;
+    font-size: 1.4rem;
+}
+
+
+header {
+  position: fixed;
+  top: 0;
+  /*Expanding to take full width*/
+  right: 0;
+  left: 0;
+}
+
+footer {
+  position: fixed;
+  bottom: -2px;
+  /*Expanding to take full width*/
+  right: 0;
+  left: 0;
+  box-shadow: 0px -4px 4px rgb(50 50 50 / 15%);
+  height: 60px;
+}
+
+header,
+footer {
+  background: rgb(255, 255, 255);
+  padding: 1em;
+  /* box-shadow: 1px 1px 1px 1px black; */
+  z-index: 100;
+}
+
+footer a {
+  color: #707070;
+  font-weight: bolder;
+  text-decoration: none;
+  vertical-align: middle;
+  margin: auto 0;
+}
+
+footer a:nth-child(2) {
+  color: #e47170;
+}
