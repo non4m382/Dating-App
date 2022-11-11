@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Profile_47);
+      }
+
+      .cls-2 {
+        font-size: 25px;
+      }
+
+      .cls-2, .cls-5 {
+        font-family: Inter-SemiBold, Inter;
+        font-weight: 600;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Inter-Medium, Inter;
+        font-weight: 500;
+      }
+
+      .cls-3, .cls-5 {
+        opacity: 0.3;
+      }
+
+      .cls-4, .cls-6, .cls-7 {
+        fill: #df5655;
+      }
+
+      .cls-6 {
+        stroke: #df5655;
+      }
+
+      .cls-7, .cls-8 {
+        fill-rule: evenodd;
+      }
+
+      .cls-12, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-11, .cls-9 {
+        fill: none;
+      }
+
+      .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Profile_47">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_47" data-name="Profile – 47" class="cls-1">
+    <rect class="cls-12" width="375" height="812"/>
+    <text id="Nhập_mã_số_xác_minh_của_bạn" data-name="Nhập mã số xác minh của 
+bạn" class="cls-2" transform="translate(20 153)"><tspan x="0" y="0">Nhập mã số xác minh của </tspan><tspan x="0" y="30">bạn</tspan></text>
+    <text id="Đã_gửi_tới_" data-name="Đã gửi tới " class="cls-3" transform="translate(20 229)"><tspan x="0" y="0">Đã gửi tới </tspan></text>
+    <text id="Sửa" class="cls-4" transform="translate(147 229)"><tspan x="0" y="0">Sửa</tspan></text>
+    <text id="email" class="cls-5" transform="translate(97 229)"><tspan x="0" y="0">email</tspan></text>
+    <g id="Ellipse_106" data-name="Ellipse 106" class="cls-6" transform="translate(317 735)">
+      <circle class="cls-10" cx="19" cy="19" r="19"/>
+      <circle class="cls-11" cx="19" cy="19" r="18.5"/>
+    </g>
+    <path id="logout" class="cls-7" d="M36.255,22.3l-5-5,2.786-2.786L43.8,24.273l-9.753,9.753-2.786-2.786,5-5H23.278V22.3Z" transform="translate(64.278 71.52) rotate(180)"/>
+    <path id="logout-2" data-name="logout" class="cls-8" d="M35.6,23l-4.345-6.058,2.423-2.423L42.162,23l-8.481,8.481-2.423-2.423L35.6,23Z" transform="translate(300.357 731)"/>
+    <text id="_2" data-name="2" class="cls-2" transform="translate(46 310)"><tspan x="0" y="0">2</tspan></text>
+    <text id="_2-2" data-name="2" class="cls-2" transform="translate(136 310)"><tspan x="0" y="0">2</tspan></text>
+    <text id="_2-3" data-name="2" class="cls-2" transform="translate(218 310)"><tspan x="0" y="0">2</tspan></text>
+    <text id="_2-4" data-name="2" class="cls-2" transform="translate(308 310)"><tspan x="0" y="0">2</tspan></text>
+    <line id="Line_52" data-name="Line 52" class="cls-9" x2="71.902" transform="translate(20.5 320.5)"/>
+    <line id="Line_52-2" data-name="Line 52" class="cls-9" x2="71.902" transform="translate(108.033 320.5)"/>
+    <line id="Line_52-3" data-name="Line 52" class="cls-9" x2="71.902" transform="translate(195.565 320.5)"/>
+    <line id="Line_52-4" data-name="Line 52" class="cls-9" x2="71.902" transform="translate(283.098 320.5)"/>
+    <text id="Chưa_nhận_được_mả_" data-name="Chưa nhận được mả ?" class="cls-4" transform="translate(20 760)"><tspan x="0" y="0">Chưa nhận được mả ?</tspan></text>
+  </g>
+</svg>

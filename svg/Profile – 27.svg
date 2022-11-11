@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Profile_27);
+      }
+
+      .cls-2, .cls-5 {
+        font-size: 25px;
+        font-family: Inter-SemiBold, Inter;
+        font-weight: 600;
+      }
+
+      .cls-3, .cls-4, .cls-6 {
+        font-size: 16px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Inter-Medium, Inter;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+
+      .cls-10, .cls-4, .cls-6 {
+        fill: #df5655;
+      }
+
+      .cls-5 {
+        opacity: 0;
+      }
+
+      .cls-6 {
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+
+      .cls-12, .cls-7 {
+        fill: none;
+      }
+
+      .cls-7 {
+        stroke: #000;
+      }
+
+      .cls-13, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        stroke: #df5655;
+      }
+
+      .cls-9 {
+        fill: #d2d2d2;
+      }
+
+      .cls-10 {
+        fill-rule: evenodd;
+      }
+
+      .cls-11 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Profile_27">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_27" data-name="Profile – 27" class="cls-1">
+    <rect class="cls-13" width="375" height="812"/>
+    <text id="Số_điện_thoại_của_bạn_" data-name="Số điện thoại của bạn ?" class="cls-2" transform="translate(20 153)"><tspan x="0" y="0">Số điện thoại của bạn ?</tspan></text>
+    <text id="Chúng_tôi_sẽ_gửi_cho_bạn_một_mã_xác_minh_thông_qua_SMS" data-name="Chúng tôi sẽ gửi cho bạn một mã xác minh
+thông qua SMS" class="cls-3" transform="translate(20 260)"><tspan x="0" y="0">Chúng tôi sẽ gửi cho bạn một mã xác minh</tspan><tspan x="0" y="20">thông qua SMS</tspan></text>
+    <text id="Nếu_như_tôi_đã_đổi_số_điện_thoại_" data-name="Nếu như tôi đã đổi số điện thoại ?" class="cls-4" transform="translate(20 760)"><tspan x="0" y="0">Nếu như tôi đã đổi số điện thoại ?</tspan></text>
+    <text id="_84" data-name="+84" class="cls-2" transform="translate(20 223)"><tspan x="0" y="0">+84</tspan></text>
+    <text id="_9875883998" data-name="9875883998" class="cls-5" transform="translate(91 222)"><tspan x="0" y="0">9875883998</tspan></text>
+    <text id="Bỏ_qua" data-name="Bỏ qua" class="cls-6" transform="translate(328 53)"><tspan x="-26.727" y="0">Bỏ qua</tspan></text>
+    <line id="Line_50" data-name="Line 50" class="cls-7" x2="50" transform="translate(20.5 227.692)"/>
+    <line id="Line_51" data-name="Line 51" class="cls-7" x2="161" transform="translate(90.5 228.5)"/>
+    <g id="Ellipse_104" data-name="Ellipse 104" class="cls-8" transform="translate(20 79)">
+      <circle class="cls-11" cx="13" cy="13" r="13"/>
+      <circle class="cls-12" cx="13" cy="13" r="12.5"/>
+    </g>
+    <g id="Ellipse_106" data-name="Ellipse 106" class="cls-8" transform="translate(317 735)">
+      <circle class="cls-11" cx="19" cy="19" r="19"/>
+      <circle class="cls-12" cx="19" cy="19" r="18.5"/>
+    </g>
+    <circle id="Ellipse_105" data-name="Ellipse 105" class="cls-9" cx="3" cy="3" r="3" transform="translate(58 89)"/>
+    <path id="phone" class="cls-10" d="M5.242,8.845l-.017-.05A12.908,12.908,0,0,1,4.5,5.224.726.726,0,0,1,5.224,4.5H7.4A1.448,1.448,0,0,1,8.845,5.948V7.4A1.448,1.448,0,0,1,7.4,8.845H6.79a11.626,11.626,0,0,0,6.4,6.4v-.606a1.448,1.448,0,0,1,1.448-1.448h1.448a1.448,1.448,0,0,1,1.448,1.448v2.173a.845.845,0,0,1-.724.724,11.168,11.168,0,0,1-3.621-.724A13.146,13.146,0,0,1,5.242,8.845Z" transform="translate(21.982 80.982)"/>
+    <path id="logout" class="cls-10" d="M36.255,22.3l-5-5,2.786-2.786L43.8,24.273l-9.753,9.753-2.786-2.786,5-5H23.278V22.3Z" transform="translate(64.278 71.52) rotate(180)"/>
+    <path id="logout-2" data-name="logout" class="cls-10" d="M35.6,23l-4.345-6.058,2.423-2.423L42.162,23l-8.481,8.481-2.423-2.423L35.6,23Z" transform="translate(300.357 731)"/>
+  </g>
+</svg>

@@ -1,0 +1,169 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Profile_32);
+      }
+
+      .cls-14, .cls-2, .cls-22, .cls-3, .cls-8 {
+        fill: none;
+      }
+
+      .cls-14, .cls-2, .cls-3 {
+        stroke: #df5655;
+      }
+
+      .cls-14, .cls-3 {
+        stroke-width: 5px;
+      }
+
+      .cls-11, .cls-15, .cls-4, .cls-7 {
+        font-size: 16px;
+      }
+
+      .cls-11, .cls-4 {
+        font-family: Inter-Medium, Inter;
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        font-size: 25px;
+      }
+
+      .cls-10, .cls-15, .cls-5, .cls-6 {
+        font-family: Inter-Bold, Inter;
+      }
+
+      .cls-10, .cls-15, .cls-16, .cls-5, .cls-6, .cls-7 {
+        font-weight: 700;
+      }
+
+      .cls-11, .cls-12, .cls-13, .cls-15, .cls-6 {
+        fill: #df5655;
+      }
+
+      .cls-6 {
+        font-size: 13px;
+      }
+
+      .cls-7 {
+        font-family: Comfortaa-Bold, Comfortaa;
+      }
+
+      .cls-8 {
+        stroke: #000;
+        opacity: 0.3;
+      }
+
+      .cls-9 {
+        fill: url(#pattern);
+      }
+
+      .cls-10 {
+        font-size: 20px;
+      }
+
+      .cls-13, .cls-17, .cls-19 {
+        fill-rule: evenodd;
+      }
+
+      .cls-14 {
+        stroke-dasharray: 78;
+      }
+
+      .cls-16, .cls-17, .cls-18 {
+        fill: #fff;
+      }
+
+      .cls-16 {
+        font-size: 15px;
+        font-family: Roboto-Bold, Roboto;
+      }
+
+      .cls-19, .cls-20 {
+        fill: #707070;
+      }
+
+      .cls-21 {
+        stroke: none;
+      }
+
+      .cls-23 {
+        filter: url(#Rectangle_334);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1080 701">
+      <image width="1080" height="701" xlink:href="Profile%20-%2032-image.jpg"/>
+    </pattern>
+    <filter id="Rectangle_334" x="-9" y="733" width="393" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="-2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Profile_32">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_32" data-name="Profile – 32" class="cls-1">
+    <rect class="cls-18" width="375" height="812"/>
+    <g id="Rectangle_122" data-name="Rectangle 122" class="cls-2" transform="translate(272 58)">
+      <rect class="cls-21" width="83" height="24" rx="12"/>
+      <rect class="cls-22" x="0.5" y="0.5" width="82" height="23" rx="11.5"/>
+    </g>
+    <g id="Rectangle_121" data-name="Rectangle 121" class="cls-3" transform="translate(41 175)">
+      <rect class="cls-21" width="293" height="274" rx="25"/>
+      <rect class="cls-22" x="2.5" y="2.5" width="288" height="269" rx="22.5"/>
+    </g>
+    <text id="Thay_đổi_bản_thân_mỗi_ngày_để_tìm_được_nhiều_điều_mới_hơn" data-name="Thay đổi bản thân mỗi ngày
+để tìm được nhiều điều mới 
+hơn" class="cls-4" transform="translate(188 327)"><tspan x="-105.432" y="0">Thay đổi bản thân mỗi ngày</tspan><tspan x="-105.787" y="20">để tìm được nhiều điều mới </tspan><tspan x="-14.469" y="40">hơn</tspan></text>
+    <text id="Đổi_mới_mỗi_ngày" data-name="Đổi mới mỗi ngày" class="cls-5" transform="translate(188 297)"><tspan x="-104.044" y="0">Đổi mới mỗi ngày</tspan></text>
+    <text id="Xác_minh_hồ_sơ_của_bạn" data-name="Xác minh hồ sơ của bạn" class="cls-6" transform="translate(175 129)"><tspan x="-74.946" y="0">Xác minh hồ sơ của bạn</tspan></text>
+    <text id="Về_chúng_tôi" data-name="Về chúng tôi" class="cls-7" transform="translate(20 687)"><tspan x="0" y="0">Về chúng tôi</tspan></text>
+    <line id="Line_14" data-name="Line 14" class="cls-8" x2="335" transform="translate(20.5 715.761)"/>
+    <circle id="Ellipse_60" data-name="Ellipse 60" class="cls-9" cx="34" cy="34" r="34" transform="translate(20 50.042)"/>
+    <text id="Lê_Quang_Minh" data-name="Lê Quang Minh" class="cls-10" transform="translate(100 77)"><tspan x="0" y="0">Lê Quang Minh</tspan></text>
+    <text id="Mới_tham_gia" data-name="Mới tham gia" class="cls-4" transform="translate(100 103)"><tspan x="0" y="0">Mới tham gia</tspan></text>
+    <text id="_23_Tuổi" data-name="23 Tuổi" class="cls-11" transform="translate(285 76)"><tspan x="0" y="0">23 Tuổi</tspan></text>
+    <g id="Group_308" data-name="Group 308">
+      <text id="Cài_đặt" data-name="Cài đặt" class="cls-7" transform="translate(20 540.235)"><tspan x="0" y="0">Cài đặt</tspan></text>
+      <line id="Line_11" data-name="Line 11" class="cls-8" x2="335" transform="translate(20.5 495.5)"/>
+      <line id="Line_12" data-name="Line 12" class="cls-8" x2="335" transform="translate(20.5 568.921)"/>
+      <path id="gear" class="cls-12" d="M14.757,26.432a10.4,10.4,0,0,1-5.1-2.114l-1.9,1.9L5.9,24.376l1.9-1.9a10.4,10.4,0,0,1-2.114-5.1H3V14.757H5.694a10.4,10.4,0,0,1,2.114-5.1L5.9,7.75,7.75,5.9l1.9,1.9a10.4,10.4,0,0,1,5.1-2.114V3h2.613V5.694a10.4,10.4,0,0,1,5.1,2.114l1.9-1.9L26.223,7.75l-1.9,1.9a10.4,10.4,0,0,1,2.114,5.1h2.694v2.613H26.432a10.4,10.4,0,0,1-2.114,5.1l1.9,1.9-1.847,1.847-1.9-1.9a10.4,10.4,0,0,1-5.1,2.114v2.694H14.757Zm1.306-3.838a6.531,6.531,0,1,0-6.531-6.531A6.531,6.531,0,0,0,16.063,22.594Z" transform="translate(316.46 515.276)"/>
+    </g>
+    <path id="question" class="cls-13" d="M16.063,29.126A13.063,13.063,0,1,1,29.126,16.063,13.063,13.063,0,0,1,16.063,29.126Zm0-2.613a10.45,10.45,0,1,0-10.45-10.45A10.45,10.45,0,0,0,16.063,26.513Zm-1.306-5.225h2.613V23.9H14.757Zm0-2.6s2.613-.01,2.613,0c0-1.309,3.919-2.623,3.919-5.236a5.225,5.225,0,1,0-10.45,0H13.45a2.613,2.613,0,0,1,5.225,0C18.676,14.626,14.757,16.542,14.757,18.686Z" transform="translate(316.46 665.758)"/>
+    <g id="Group_310" data-name="Group 310">
+      <text id="An_toàn_cho_bản_thân" data-name="An toàn cho bản thân" class="cls-7" transform="translate(20 613.284)"><tspan x="0" y="0">An toàn cho bản thân</tspan></text>
+      <line id="Line_13" data-name="Line 13" class="cls-8" x2="335" transform="translate(20.5 642.341)"/>
+      <path id="shield" class="cls-12" d="M8.442,21.923l7.326,3.845V5.563H8.442ZM8.442,3H23.094a2.5,2.5,0,0,1,2.442,2.563V23.507l-9.768,5.127L6,23.507V5.563A2.5,2.5,0,0,1,8.442,3Z" transform="translate(316.755 589.147)"/>
+    </g>
+    <g id="Ellipse_61" data-name="Ellipse 61" class="cls-14" transform="translate(54 132.125) rotate(-135)">
+      <circle class="cls-21" cx="34" cy="34" r="34"/>
+      <circle class="cls-22" cx="34" cy="34" r="31.5"/>
+    </g>
+    <text id="_75_" data-name="75%" class="cls-15" transform="translate(41 134.042)"><tspan x="0" y="0">75%</tspan></text>
+    <path id="Path_13" data-name="Path 13" class="cls-12" d="M147.026,122.547h-.032a1.588,1.588,0,0,0-1.68,1.476v13.067a1.685,1.685,0,0,0,1.559,1.615,1.716,1.716,0,0,0,2.006-1.555V125.741c12.917.834,23.1,10.309,23.1,21.876,0,9.062-6.252,16.84-15.17,20.185a12.007,12.007,0,0,1-11.951-2.082l-3.6-3.162h0l-2.128-1.87-.342-.3-6.174-5.427h0a6.7,6.7,0,0,1-2.414-5.541c.244-3.584,3.556-6.495,7.633-6.709a8.765,8.765,0,0,1,6.3,2.122h0l.468.411,2.414,2.121,2.413-2.121.468-.411h0a8.765,8.765,0,0,1,6.3-2.122c4.077.214,7.389,3.125,7.633,6.709a6.7,6.7,0,0,1-2.414,5.541h0l-2.881,2.533-4.425,3.89-.5.444-.374.329h0a1.67,1.67,0,0,0-.643,1.591,1.943,1.943,0,0,0,1.756,1.507,2.174,2.174,0,0,0,1.853-.663l8.026-7.032h0l.074-.065,0,0a10.031,10.031,0,0,0,3.489-8.13c-.336-5.428-5.348-9.834-11.523-10.129a13.167,13.167,0,0,0-9.249,3.067h0a13.167,13.167,0,0,0-9.249-3.067c-6.175.3-11.188,4.7-11.523,10.129a10.03,10.03,0,0,0,3.489,8.13l0,0,.074.065h0L141.8,168.1a16.009,16.009,0,0,0,15.493,2.919c10.679-3.623,18.254-12.732,18.254-23.4C175.547,133.772,162.778,122.547,147.026,122.547Z" transform="translate(36.128 83.279)"/>
+    <path id="Path_99" data-name="Path 99" class="cls-12" d="M147.026,122.547h-.032a1.588,1.588,0,0,0-1.68,1.476v13.067a1.685,1.685,0,0,0,1.559,1.615,1.716,1.716,0,0,0,2.006-1.555V125.741c12.917.834,23.1,10.309,23.1,21.876,0,9.062-6.252,16.84-15.17,20.185a12.007,12.007,0,0,1-11.951-2.082l-3.6-3.162h0l-2.128-1.87-.342-.3-6.174-5.427h0a6.7,6.7,0,0,1-2.414-5.541c.244-3.584,3.556-6.495,7.633-6.709a8.765,8.765,0,0,1,6.3,2.122h0l.468.411,2.414,2.121,2.413-2.121.468-.411h0a8.765,8.765,0,0,1,6.3-2.122c4.077.214,7.389,3.125,7.633,6.709a6.7,6.7,0,0,1-2.414,5.541h0l-2.881,2.533-4.425,3.89-.5.444-.374.329h0a1.67,1.67,0,0,0-.643,1.591,1.943,1.943,0,0,0,1.756,1.507,2.174,2.174,0,0,0,1.853-.663l8.026-7.032h0l.074-.065,0,0a10.031,10.031,0,0,0,3.489-8.13c-.336-5.428-5.348-9.834-11.523-10.129a13.167,13.167,0,0,0-9.249,3.067h0a13.167,13.167,0,0,0-9.249-3.067c-6.175.3-11.188,4.7-11.523,10.129a10.03,10.03,0,0,0,3.489,8.13l0,0,.074.065h0L141.8,168.1a16.009,16.009,0,0,0,15.493,2.919c10.679-3.623,18.254-12.732,18.254-23.4C175.547,133.772,162.778,122.547,147.026,122.547Z" transform="translate(36.128 83.279)"/>
+    <g id="Group_54" data-name="Group 54" transform="translate(-24 -2108.074)">
+      <rect id="Rectangle_125" data-name="Rectangle 125" class="cls-12" width="173" height="36" rx="18" transform="translate(125 2496.074)"/>
+      <g id="Group_31" data-name="Group 31" transform="translate(143.591 2504.779)">
+        <text id="Chỉnh_sửa_hồ_sơ" data-name="Chỉnh sửa hồ sơ" class="cls-16" transform="translate(74.037 14)"><tspan x="-54.261" y="0">Chỉnh sửa hồ sơ</tspan></text>
+        <path id="edit" class="cls-17" d="M6.93,19.732H19.943a.93.93,0,1,1,0,1.859H6.93a.93.93,0,1,1,0-1.859ZM6,15.084l9.3-9.3,2.789,2.789-9.3,9.3H6ZM16.225,4.859,18.084,3l2.789,2.789-1.86,1.86Z" transform="translate(-6 -2.484)"/>
+      </g>
+    </g>
+    <g class="cls-23" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_334-2" data-name="Rectangle 334" class="cls-18" width="375" height="68" transform="translate(0 744)"/>
+    </g>
+    <path id="user" class="cls-12" d="M20.27,20.27A7.135,7.135,0,1,1,27.4,13.135,7.135,7.135,0,0,1,20.27,20.27Zm0,5.351c5.683,0,10.782,1.018,14.27,5.464V34.54H6V31.085C9.488,26.638,14.587,25.621,20.27,25.621Z" transform="translate(313.46 758.854)"/>
+    <path id="heart" class="cls-19" d="M21.406,36.056C17.264,35.154,4.5,28.091,4.5,15.392A9.392,9.392,0,0,1,21.406,9.757a9.392,9.392,0,0,1,16.906,5.635C38.313,28.091,25.549,35.154,21.406,36.056Z" transform="translate(22.5 758.931)"/>
+    <path id="star" class="cls-20" d="M20.443,29.547l-9.852,5.16,1.881-10.928L4.5,16.038l11.016-1.594L20.443,4.5l4.927,9.943,11.016,1.594-7.971,7.742,1.881,10.928Z" transform="translate(166.819 758.688)"/>
+    <path id="commenting" class="cls-20" d="M7.764,33.876V27.091A13.357,13.357,0,0,1,4.5,18.372C4.5,10.711,11.077,4.5,19.188,4.5s14.688,6.211,14.688,13.872S27.3,32.244,19.188,32.244a15.263,15.263,0,0,1-7.723-2.069Zm11.424-4.9c6.309,0,11.424-4.749,11.424-10.608S25.5,7.764,19.188,7.764,7.764,12.513,7.764,18.372,12.879,28.98,19.188,28.98Zm-4.08-8.16a2.448,2.448,0,1,1,2.448-2.448A2.448,2.448,0,0,1,15.108,20.82Zm8.16,0a2.448,2.448,0,1,1,2.448-2.448A2.448,2.448,0,0,1,23.268,20.82Z" transform="translate(243.321 759.937)"/>
+    <g id="Group_231" data-name="Group 231" transform="translate(98.397 763.014)">
+      <path id="Polygon_44" data-name="Polygon 44" class="cls-20" d="M7.26,2.714a2,2,0,0,1,3.392,0L16,11.269a2,2,0,0,1-1.7,3.06H3.608a2,2,0,0,1-1.7-3.06Z" transform="translate(4.478)"/>
+      <rect id="Rectangle_138" data-name="Rectangle 138" class="cls-20" width="12.538" height="12.538" rx="4" transform="translate(0 17.911)"/>
+      <ellipse id="Ellipse_32" data-name="Ellipse 32" class="cls-20" cx="6.717" cy="6.717" rx="6.717" ry="6.717" transform="translate(15.225 17.016)"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Profile_45);
+      }
+
+      .cls-2, .cls-3, .cls-5, .cls-9 {
+        fill: #df5655;
+      }
+
+      .cls-2 {
+        stroke: #df5655;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-12, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-5, .cls-9 {
+        font-size: 16px;
+      }
+
+      .cls-5 {
+        font-family: Inter-Bold, Inter;
+        font-weight: 700;
+      }
+
+      .cls-6 {
+        font-size: 25px;
+        font-family: Inter-SemiBold, Inter;
+        font-weight: 600;
+      }
+
+      .cls-7 {
+        font-size: 20px;
+        font-family: Inter-Regular, Inter;
+      }
+
+      .cls-11, .cls-8 {
+        fill: none;
+      }
+
+      .cls-8 {
+        stroke: #000;
+        opacity: 0.3;
+      }
+
+      .cls-9 {
+        font-family: Inter-Medium, Inter;
+        font-weight: 500;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-Profile_45">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_45" data-name="Profile – 45" class="cls-1">
+    <rect class="cls-12" width="375" height="812"/>
+    <g id="Ellipse_106" data-name="Ellipse 106" class="cls-2" transform="translate(317 735)">
+      <circle class="cls-10" cx="19" cy="19" r="19"/>
+      <circle class="cls-11" cx="19" cy="19" r="18.5"/>
+    </g>
+    <path id="logout" class="cls-3" d="M36.255,22.3l-5-5,2.786-2.786L43.8,24.273l-9.753,9.753-2.786-2.786,5-5H23.278V22.3Z" transform="translate(64.278 71.52) rotate(180)"/>
+    <path id="logout-2" data-name="logout" class="cls-4" d="M35.6,23l-4.345-6.058,2.423-2.423L42.162,23l-8.481,8.481-2.423-2.423L35.6,23Z" transform="translate(300.357 731)"/>
+    <text id="Bỏ_qua" data-name="Bỏ qua" class="cls-5" transform="translate(328 53)"><tspan x="-26.727" y="0">Bỏ qua</tspan></text>
+    <text id="Bỏ_qua-2" data-name="Bỏ qua" class="cls-5" transform="translate(328 53)"><tspan x="-26.727" y="0">Bỏ qua</tspan></text>
+    <g id="Group_280" data-name="Group 280" transform="translate(-2.25 40.033)">
+      <text id="Email_cuả_bạn" data-name="Email cuả bạn" class="cls-6" transform="translate(21 112)"><tspan x="0" y="0">Email cuả bạn</tspan></text>
+      <g id="Component_24_1" data-name="Component 24 – 1" transform="translate(22 161.467)">
+        <text id="minh_gmail.com" data-name="minh@gmail.com" class="cls-7" transform="translate(0 19)"><tspan x="0" y="0">minh@gmail.com</tspan></text>
+      </g>
+      <line id="Line_39" data-name="Line 39" class="cls-8" x2="337" transform="translate(21.5 194.967)"/>
+    </g>
+    <text id="Nếu_như_tôi_đã_đổi_email_" data-name="Nếu như tôi đã đổi email ?" class="cls-9" transform="translate(20 760)"><tspan x="0" y="0">Nếu như tôi đã đổi email ?</tspan></text>
+  </g>
+</svg>
