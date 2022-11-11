@@ -2,40 +2,121 @@
   --blue: #589de2;
   --red: #e15f5e;
   --green: #5be868;
+  --gray: #707070;
 }
 
 .container {
   position: relative;
 }
 
-.container .menu a:first-child {
-  color: #e47170;
+#avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
 }
 
-.container .content .action {
-  height: 132px;
+header #logo {
+  float: left;
+  color: #e74c3c;
+  position: absolute;
+  left: 15px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
-.container .content .action span {
+header a {
+  float: right;
+  color: #e74c3c;
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+header a:nth-child(2) {
+  color: #e74c3c;
+  position: absolute;
+  right: 72px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.container .swipe img {
+  width: 360px;
+  height: 520px;
+  border-radius: 8px;
+}
+
+/* header */
+.container .swipe .image {
+  position: relative;
+}
+
+.container .swipe .image .name,
+.container .swipe .image .place {
+  position: absolute;
+  display: flex;
+  color: white;
+  margin-left: 12px;
+}
+
+.container .swipe .image .name {
+  bottom: 48px;
+  left: 12px;
+  font-size: 1.8rem;
+  font-weight: bolder;
+}
+
+.container .swipe .image .name p {
+  margin-right: 44px;
+}
+
+.container .swipe .image .place {
+  bottom: 16px;
+  left: 28px;
+  margin: auto 0;
+  font-size: 1.1rem;
+}
+
+.container .swipe .image .place i {
+  color: #e15f5e;
+  padding-right: 12px;
+}
+
+.container .action span {
   font-size: 1.8rem;
 }
 
-.container .content .action a:first-child span {
+.container .action a:first-child span {
   color: var(--blue);
   margin-top: 32px;
 }
 
-.container .content .action a:nth-child(2) span {
+.container .action a:nth-child(2) span {
   color: var(--red);
   margin-top: 80px;
 }
 
-.container .content .action a:nth-child(3) span {
+.container .action a:nth-child(3) span {
   color: var(--green);
   margin-top: 80px;
 }
 
-.container .content .action a:nth-child(4) span {
+.container .action a:nth-child(4) span {
   color: var(--red);
   margin-top: 32px;
+}
+
+footer {
+  background-color: white;
+  vertical-align: middle;
+}
+
+footer a {
+  margin: auto 0;
+  color: var(--gray);
+}
+
+footer a:first-child {
+  color: var(--red);
 }
