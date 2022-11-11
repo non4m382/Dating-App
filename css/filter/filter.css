@@ -1,3 +1,4 @@
+/* ------BASE------ */
 @font-face {
   font-family: Roobert;
   src: url(../../font/Roobert-Regular.ttf);
@@ -20,24 +21,37 @@ html {
 }
 
 body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  font-family: Inter;
   width: 390px;
 }
 
 header,
 footer {
   width: 390px;
+  background: rgb(255, 255, 255);
+  padding: 1em;
+  z-index: 100;
 }
 
-body {
-  margin: 0;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
+header {
+  position: fixed;
+  top: 0;
+  height: 60px;
+  text-align: center;
+}
 
-  /* color: whitesmoke; */
-  /* font-family: cursive; */
-  position: relative;
-  font-family: Inter;
+footer {
+  position: fixed;
+  box-shadow: 0px -4px 4px rgb(50 50 50 / 15%);
+  height: 60px;
+  top: 786px;
+  background-color: #e74c3c;
+  padding: 0;
 }
 
 .container {
@@ -45,6 +59,35 @@ body {
   padding-bottom: 88px;
   overflow: auto;
   height: 844px;
+}
+
+/* ---EDITABLE------- */
+
+header h4 {
+  font-weight: bold;
+}
+header a {
+  color: #e74c3c;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+header a i {
+  padding-left: 15px;
+}
+
+footer a {
+  color: #707070;
+  font-weight: bolder;
+  text-decoration: none;
+  vertical-align: middle;
+  margin: auto 0;
+}
+
+footer a:nth-child(2) {
+  color: #e47170;
 }
 
 .container div {
@@ -65,7 +108,6 @@ body {
 }
 
 .container div ul li {
-  /* color: #707070; */
   font-weight: 900;
   /* display: block; */
   display: flex;
@@ -75,52 +117,6 @@ body {
 .container div:nth-child(2) ul li,
 div:nth-child(3) ul li {
   display: block;
-}
-
-header {
-  position: fixed;
-  top: 0;
-  height: 60px;
-}
-
-footer {
-  position: fixed;
-  box-shadow: 0px -4px 4px rgb(50 50 50 / 15%);
-  height: 60px;
-  top: 786px;
-  background-color: #e74c3c;
-  padding: 0;
-}
-
-header,
-footer {
-  background: rgb(255, 255, 255);
-  padding: 1em;
-  /* box-shadow: 1px 1px 1px 1px black; */
-  z-index: 100;
-}
-
-header h4 {
-  font-weight: bold;
-}
-header a {
-  color: #e74c3c;
-}
-
-header a i {
-  padding-left: 15px;
-}
-
-footer a {
-  color: #707070;
-  font-weight: bolder;
-  text-decoration: none;
-  vertical-align: middle;
-  margin: auto 0;
-}
-
-footer a:nth-child(2) {
-  color: #e47170;
 }
 
 ul {
@@ -149,18 +145,6 @@ hr {
 
 input {
   accent-color: #e74c3c;
-}
-
-header {
-  text-align: center;
-  /* position: relative; */
-}
-
-header a {
-  position: absolute;
-  left: 0;
-  top: 50%;
-  transform: translateY(-50%);
 }
 
 .range {
