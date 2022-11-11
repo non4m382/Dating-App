@@ -20,23 +20,16 @@ html {
 }
 
 body {
-
   width: 390px;
 }
 
-header, footer {
+header,
+footer {
   width: 390px;
 }
 
 .container .menu a:nth-child(2) {
   color: #e47170;
-}
-
-#avatar {
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  float: right;
 }
 
 body {
@@ -51,76 +44,10 @@ body {
   font-family: Inter;
 }
 
-
-
 .container {
   padding-top: 88px;
   padding-bottom: 88px;
 }
-
-.container .content h5 {
-  font-weight: 900;
-  font-family: Comfortaa;
-}
-
-.container .content .trending {
-  margin-bottom: 40px;
-}
-
-.container .content .trending .row {
-  color: rgb(255, 255, 255);
-}
-
-.container .content .trending .active {
-  margin-bottom: 20px;
-  position: relative;
-}
-
-.container .content .trending .active div {
-  position: absolute;
-  bottom: 8px;
-  left: 16px;
-  padding-left: 20px;
-  width: 312px;
-}
-
-.container .content .trending  img {
-  width: 360px;
-  height: 180px;
-  border-radius: 8px;
-}
-
-.container .content .hobby-list {
-  position: relative;
-  margin-bottom: 20px;
-}
-
-.container .content .hobby-list img {
-  width: 140px;
-  height: 200px;
-  border-radius: 8px;
-  object-fit: cover;
-}
-
-.container .content .hobby-list p {
-  position: absolute;
-  top: 148px;
-  left: 25px;
-  width: 312px;
-  color: white;
-  width: 132px;
-}
-
-.container .content .hobby-list h5 {
-  position: absolute;
-    top: 116px;
-    left: 25px;
-    width: 312px;
-    color: white;
-    width: 132px;
-    font-size: 1.4rem;
-}
-
 
 header {
   position: fixed;
@@ -158,4 +85,37 @@ footer a {
 
 footer a:nth-child(2) {
   color: #e47170;
+}
+
+ul {
+  border: 1px solid;
+  border-radius: 4px;
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 4px 10px;
+}
+
+hr {
+  /* width: 90%; */
+  padding: 4px 10px;
+  margin: 0 8px;
+}
+
+.checkbox {
+  float: right;
+}
+
+.checkbox:checked::before {
+  background-color: red;
+  border: 1px solid;
+}
+
+input {
+  accent-color: #e74c3c
 }
