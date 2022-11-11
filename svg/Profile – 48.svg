@@ -1,0 +1,604 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="2461" viewBox="0 0 375 2461">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Profile_48);
+      }
+
+      .cls-10, .cls-14, .cls-17, .cls-2, .cls-23, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-15, .cls-24, .cls-25, .cls-27, .cls-28, .cls-29, .cls-3, .cls-4, .cls-6 {
+        font-size: 16px;
+      }
+
+      .cls-3 {
+        font-family: Inter-SemiBold, Inter;
+        font-weight: 600;
+      }
+
+      .cls-25, .cls-4 {
+        font-family: Inter-Regular, Inter;
+      }
+
+      .cls-14, .cls-24, .cls-4 {
+        opacity: 0.5;
+      }
+
+      .cls-19, .cls-30, .cls-32, .cls-5 {
+        fill: none;
+      }
+
+      .cls-5 {
+        stroke: #000;
+        stroke-width: 0.5px;
+        opacity: 0.3;
+      }
+
+      .cls-29, .cls-6 {
+        font-family: Inter-Bold, Inter;
+      }
+
+      .cls-26, .cls-29, .cls-6 {
+        font-weight: 700;
+      }
+
+      .cls-15, .cls-25, .cls-6 {
+        opacity: 0.6;
+      }
+
+      .cls-7 {
+        fill: url(#pattern);
+      }
+
+      .cls-17, .cls-19, .cls-8 {
+        stroke: #df5655;
+      }
+
+      .cls-8 {
+        stroke-dasharray: 5;
+      }
+
+      .cls-11, .cls-12, .cls-29, .cls-9 {
+        fill: #df5655;
+      }
+
+      .cls-10, .cls-23, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-13 {
+        fill: #e7e7e7;
+      }
+
+      .cls-14, .cls-30 {
+        stroke: #707070;
+      }
+
+      .cls-14 {
+        stroke-dasharray: 8 1;
+      }
+
+      .cls-15, .cls-16, .cls-24 {
+        font-family: Inter-Italic, Inter;
+        font-style: italic;
+      }
+
+      .cls-16, .cls-20, .cls-26 {
+        font-size: 20px;
+      }
+
+      .cls-16 {
+        opacity: 0.4;
+      }
+
+      .cls-18 {
+        font-size: 18px;
+      }
+
+      .cls-18, .cls-20, .cls-27, .cls-28 {
+        font-family: Inter-Medium, Inter;
+        font-weight: 500;
+      }
+
+      .cls-20 {
+        opacity: 0.65;
+      }
+
+      .cls-21, .cls-23 {
+        opacity: 0;
+      }
+
+      .cls-22 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-26 {
+        font-family: Comfortaa-Bold, Comfortaa;
+      }
+
+      .cls-28 {
+        fill: #707070;
+      }
+
+      .cls-31, .cls-33 {
+        stroke: none;
+      }
+
+      .cls-33 {
+        fill: #df5655;
+      }
+
+      .cls-34 {
+        filter: url(#Rectangle_199);
+      }
+
+      .cls-35 {
+        filter: url(#Rectangle_259);
+      }
+
+      .cls-36 {
+        filter: url(#Rectangle_286);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 1080 701">
+      <image width="1080" height="701" xlink:href="Profile%20-%2048-image.jpg"/>
+    </pattern>
+    <filter id="Rectangle_286" x="-6" y="521" width="387" height="178" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_259" x="-6" y="1017" width="387" height="172" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 300 300">
+      <image width="300" height="300" xlink:href="Profile%20-%2048-image2.png"/>
+    </pattern>
+    <filter id="Rectangle_199" x="-4.5" y="-2.5" width="384" height="114" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Profile_48">
+      <rect width="375" height="2461"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_48" data-name="Profile – 48" class="cls-1">
+    <rect class="cls-2" width="375" height="2461"/>
+    <g id="Group_166" data-name="Group 166" transform="translate(0 47)">
+      <g id="Group_150" data-name="Group 150" transform="translate(0 204)">
+        <rect id="Rectangle_287" data-name="Rectangle 287" class="cls-2" width="334" height="62" transform="translate(21 1025)"/>
+        <text id="Tên" class="cls-3" transform="translate(23 1048)"><tspan x="0" y="0">Tên</tspan></text>
+        <text id="Lê_Quang_Minh" data-name="Lê Quang Minh" class="cls-4" transform="translate(23 1073)"><tspan x="0" y="0">Lê Quang Minh</tspan></text>
+        <line id="Line_19" data-name="Line 19" class="cls-5" x2="335" transform="translate(20.5 1025)"/>
+      </g>
+      <g id="Component_19_1" data-name="Component 19 – 1" transform="translate(297 1250)">
+        <text id="Hiển_thị" data-name="Hiển thị" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Hiển thị</tspan></text>
+      </g>
+    </g>
+    <text id="Hình_ảnh_và_video" data-name="Hình ảnh và video" class="cls-6" transform="translate(23 209)"><tspan x="0" y="0">Hình ảnh và video</tspan></text>
+    <text id="Ghi_âm_giọng_nói" data-name="Ghi âm giọng nói" class="cls-6" transform="translate(23 499)"><tspan x="0" y="0">Ghi âm giọng nói</tspan></text>
+    <text id="Viết_về_bản_thân_bạn" data-name="Viết về bản thân bạn" class="cls-6" transform="translate(23 751)"><tspan x="0" y="0">Viết về bản thân bạn</tspan></text>
+    <text id="Thông_tin_về_bản_thân_bạn" data-name="Thông tin về bản thân bạn" class="cls-6" transform="translate(23 1249)"><tspan x="0" y="0">Thông tin về bản thân bạn</tspan></text>
+    <text id="Chọn_sở_thích_của_bạn" data-name="Chọn sở thích của bạn" class="cls-6" transform="translate(23 2302)"><tspan x="0" y="0">Chọn sở thích của bạn</tspan></text>
+    <text id="Lối_sống_của_bạn" data-name="Lối sống của bạn" class="cls-6" transform="translate(23 1842)"><tspan x="0" y="0">Lối sống của bạn</tspan></text>
+    <g id="Group_158" data-name="Group 158" transform="translate(0 244)">
+      <rect id="Rectangle_299" data-name="Rectangle 299" class="cls-2" width="334" height="62" transform="translate(21 1618)"/>
+      <text id="Uống_rượu_không_" data-name="Uống rượu không ?" class="cls-3" transform="translate(23 1641.5)"><tspan x="0" y="0">Uống rượu không ?</tspan></text>
+      <text id="Có" class="cls-4" transform="translate(23 1666.5)"><tspan x="0" y="0">Có</tspan></text>
+    </g>
+    <g id="Group_153" data-name="Group 153" transform="translate(0 251)">
+      <rect id="Rectangle_289" data-name="Rectangle 289" class="cls-2" width="334" height="64" transform="translate(21 1215)"/>
+      <text id="Giới_tính" data-name="Giới tính" class="cls-3" transform="translate(23 1240)"><tspan x="0" y="0">Giới tính</tspan></text>
+      <text id="Nam" class="cls-4" transform="translate(23 1265)"><tspan x="0" y="0">Nam</tspan></text>
+    </g>
+    <g id="Group_152" data-name="Group 152" transform="translate(0 251)">
+      <rect id="Rectangle_290" data-name="Rectangle 290" class="cls-2" width="334" height="62" transform="translate(21 1151)"/>
+      <text id="Nơi_sống" data-name="Nơi sống" class="cls-3" transform="translate(23 1176)"><tspan x="0" y="0">Nơi sống</tspan></text>
+      <text id="Hà_Nội" data-name="Hà Nội" class="cls-4" transform="translate(23 1201)"><tspan x="0" y="0">Hà Nội</tspan></text>
+    </g>
+    <g id="Group_160" data-name="Group 160" transform="translate(0 244)">
+      <rect id="Rectangle_297" data-name="Rectangle 297" class="cls-2" width="334" height="62" transform="translate(21 1746)"/>
+      <text id="Bạn_có_muốn_có_con_cái" data-name="Bạn có muốn có con cái" class="cls-3" transform="translate(23 1769.5)"><tspan x="0" y="0">Bạn có muốn có con cái</tspan></text>
+      <text id="Không" class="cls-4" transform="translate(23 1794.5)"><tspan x="0" y="0">Không</tspan></text>
+    </g>
+    <g id="Group_155" data-name="Group 155" transform="translate(0 251)">
+      <rect id="Rectangle_292" data-name="Rectangle 292" class="cls-2" width="334" height="64" transform="translate(21 1342)"/>
+      <text id="Chiều_cao" data-name="Chiều cao" class="cls-3" transform="translate(23 1368)"><tspan x="0" y="0">Chiều cao</tspan></text>
+      <text id="_180_cm" data-name="180 cm" class="cls-4" transform="translate(23 1393)"><tspan x="0" y="0">180 cm</tspan></text>
+    </g>
+    <g id="Group_163" data-name="Group 163" transform="translate(0 180)">
+      <rect id="Rectangle_300" data-name="Rectangle 300" class="cls-2" width="334" height="64" transform="translate(21 1936)"/>
+      <text id="Học_hành" data-name="Học hành" class="cls-3" transform="translate(23 1961.5)"><tspan x="0" y="0">Học hành</tspan></text>
+      <text id="Đã_tốt_nghiệp" data-name="Đã tốt nghiệp" class="cls-4" transform="translate(23 1986.5)"><tspan x="0" y="0">Đã tốt nghiệp</tspan></text>
+      <g id="Component_19_2" data-name="Component 19 – 2" transform="translate(297 1958.5)">
+        <text id="Hiển_thị-2" data-name="Hiển thị" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Hiển thị</tspan></text>
+      </g>
+    </g>
+    <g id="Group_156" data-name="Group 156" transform="translate(0 251)">
+      <rect id="Rectangle_291" data-name="Rectangle 291" class="cls-2" width="334" height="62" transform="translate(21 1407)"/>
+      <text id="Tìm_kiếm_mối_quan_hệ" data-name="Tìm kiếm mối quan hệ" class="cls-3" transform="translate(23 1432)"><tspan x="0" y="0">Tìm kiếm mối quan hệ</tspan></text>
+      <text id="Mối_quan_hệ_lâu_dài" data-name="Mối quan hệ lâu dài" class="cls-4" transform="translate(23 1457)"><tspan x="0" y="0">Mối quan hệ lâu dài</tspan></text>
+    </g>
+    <g id="Group_157" data-name="Group 157" transform="translate(0 251)">
+      <rect id="Rectangle_294" data-name="Rectangle 294" class="cls-2" width="334" height="64" transform="translate(21 1471)"/>
+      <text id="Làm_việc_tại" data-name="Làm việc tại" class="cls-3" transform="translate(23 1496)"><tspan x="0" y="0">Làm việc tại</tspan></text>
+      <text id="Studio_Đụt" data-name="Studio Đụt" class="cls-4" transform="translate(23 1521)"><tspan x="0" y="0">Studio Đụt</tspan></text>
+    </g>
+    <g id="Group_151" data-name="Group 151" transform="translate(0 251)">
+      <rect id="Rectangle_288" data-name="Rectangle 288" class="cls-2" width="334" height="64" transform="translate(21 1087)"/>
+      <text id="Tuổi" class="cls-3" transform="translate(23 1112)"><tspan x="0" y="0">Tuổi</tspan></text>
+      <text id="_20" data-name="20" class="cls-4" transform="translate(23 1137)"><tspan x="0" y="0">20</tspan></text>
+    </g>
+    <g id="Group_159" data-name="Group 159" transform="translate(0 244)">
+      <rect id="Rectangle_298" data-name="Rectangle 298" class="cls-2" width="334" height="62" transform="translate(21 1682)"/>
+      <text id="Hút_thuốc_lá" data-name="Hút thuốc lá" class="cls-3" transform="translate(23 1705.5)"><tspan x="0" y="0">Hút thuốc lá</tspan></text>
+      <text id="Không-2" data-name="Không" class="cls-4" transform="translate(23 1730.5)"><tspan x="0" y="0">Không</tspan></text>
+    </g>
+    <g id="Group_154" data-name="Group 154" transform="translate(0 251)">
+      <rect id="Rectangle_293" data-name="Rectangle 293" class="cls-2" width="334" height="62" transform="translate(21 1279)"/>
+      <text id="Khuynh_hướng_hẹn_hò" data-name="Khuynh hướng hẹn hò" class="cls-3" transform="translate(23 1304)"><tspan x="0" y="0">Khuynh hướng hẹn hò</tspan></text>
+      <text id="Nữ" class="cls-4" transform="translate(23 1329)"><tspan x="0" y="0">Nữ</tspan></text>
+    </g>
+    <g id="Group_162" data-name="Group 162" transform="translate(0 180)">
+      <rect id="Rectangle_295" data-name="Rectangle 295" class="cls-2" width="334" height="61" transform="translate(21 1875)"/>
+      <text id="Thể_thao" data-name="Thể thao" class="cls-3" transform="translate(23 1897.5)"><tspan x="0" y="0">Thể thao</tspan></text>
+      <text id="Thỉnh_thoảng" data-name="Thỉnh thoảng" class="cls-4" transform="translate(23 1922.5)"><tspan x="0" y="0">Thỉnh thoảng</tspan></text>
+    </g>
+    <rect id="Rectangle_281" data-name="Rectangle 281" class="cls-7" width="94" height="88" rx="2" transform="translate(261 235)"/>
+    <g id="Rectangle_284" data-name="Rectangle 284" class="cls-8" transform="translate(261 337)">
+      <rect class="cls-31" width="94" height="88" rx="2"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="93" height="87" rx="1.5"/>
+    </g>
+    <g id="Rectangle_311" data-name="Rectangle 311" class="cls-8" transform="translate(141 337)">
+      <rect class="cls-31" width="94" height="88" rx="2"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="93" height="87" rx="1.5"/>
+    </g>
+    <path id="close" class="cls-9" d="M12.034,13.167,7.5,8.633,8.633,7.5l4.534,4.534L17.7,7.5l1.133,1.133L14.3,13.167,18.834,17.7,17.7,18.835,13.167,14.3,8.633,18.835,7.5,17.7Z" transform="translate(307.5 362.378) rotate(45)"/>
+    <path id="close-2" data-name="close" class="cls-9" d="M12.034,13.167,7.5,8.633,8.633,7.5l4.534,4.534L17.7,7.5l1.133,1.133L14.3,13.167,18.834,17.7,17.7,18.835,13.167,14.3,8.633,18.835,7.5,17.7Z" transform="translate(187.5 362.378) rotate(45)"/>
+    <g id="Group_147" data-name="Group 147" transform="translate(241 -55)">
+      <circle id="Ellipse_82" data-name="Ellipse 82" cx="12" cy="12" r="12" transform="translate(55 322)"/>
+      <path id="eject" class="cls-10" d="M7.12.444l4.931,6.175A.9.9,0,0,1,11.72,8a1.368,1.368,0,0,1-.662.167H1.193A1.108,1.108,0,0,1,0,7.172a.883.883,0,0,1,.2-.553L5.133.444A1.347,1.347,0,0,1,6.789.167,1.11,1.11,0,0,1,7.12.443Z" transform="translate(71.251 327.902) rotate(90)"/>
+    </g>
+    <circle id="Ellipse_86" data-name="Ellipse 86" class="cls-11" cx="3" cy="3" r="3" transform="translate(165 200)"/>
+    <circle id="Ellipse_87" data-name="Ellipse 87" class="cls-11" cx="3" cy="3" r="3" transform="translate(157 490)"/>
+    <circle id="Ellipse_88" data-name="Ellipse 88" class="cls-11" cx="3" cy="3" r="3" transform="translate(188 742)"/>
+    <circle id="Ellipse_90" data-name="Ellipse 90" class="cls-11" cx="3" cy="3" r="3" transform="translate(231 1240)"/>
+    <circle id="Ellipse_91" data-name="Ellipse 91" class="cls-11" cx="3" cy="3" r="3" transform="translate(159 1833)"/>
+    <g class="cls-36" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_286-2" data-name="Rectangle 286" class="cls-2" width="375" height="166" transform="translate(0 527)"/>
+    </g>
+    <g id="Component_16_1" data-name="Component 16 – 1" transform="translate(20 593)">
+      <g id="Group_149" data-name="Group 149" transform="translate(-20 -544)">
+        <g id="Path_65" data-name="Path 65" class="cls-12" transform="translate(20 544)">
+          <path class="cls-31" d="M 27 52.5 C 23.55685997009277 52.5 20.21751022338867 51.82598876953125 17.07471084594727 50.49670028686523 C 14.03837013244629 49.21244049072266 11.3111400604248 47.37358093261719 8.968779563903809 45.03121948242188 C 6.626420021057129 42.68886184692383 4.787559986114502 39.96163177490234 3.503299951553345 36.92528915405273 C 2.174010038375854 33.78248977661133 1.5 30.44314002990723 1.5 27 C 1.5 23.55685997009277 2.174010038375854 20.21751022338867 3.503299951553345 17.07471084594727 C 4.787559986114502 14.03837013244629 6.626420021057129 11.3111400604248 8.968779563903809 8.968779563903809 C 11.3111400604248 6.626420021057129 14.03837013244629 4.787559986114502 17.07471084594727 3.503299951553345 C 20.21751022338867 2.174010038375854 23.55685997009277 1.5 27 1.5 C 30.44314002990723 1.5 33.78248977661133 2.174010038375854 36.92528915405273 3.503299951553345 C 39.96163177490234 4.787559986114502 42.68886184692383 6.626420021057129 45.03121948242188 8.968779563903809 C 47.37358093261719 11.3111400604248 49.21244049072266 14.03837013244629 50.49670028686523 17.07471084594727 C 51.82598876953125 20.21751022338867 52.5 23.55685997009277 52.5 27 C 52.5 30.44314002990723 51.82598876953125 33.78248977661133 50.49670028686523 36.92528915405273 C 49.21244049072266 39.96163177490234 47.37358093261719 42.68886184692383 45.03121948242188 45.03121948242188 C 42.68886184692383 47.37358093261719 39.96163177490234 49.21244049072266 36.92528915405273 50.49670028686523 C 33.78248977661133 51.82598876953125 30.44314002990723 52.5 27 52.5 Z"/>
+          <path class="cls-33" d="M 27 3 C 23.75869941711426 3 20.61594009399414 3.634140014648438 17.65903854370117 4.884811401367188 C 14.80149078369141 6.093448638916016 12.23451995849609 7.824348449707031 10.02944183349609 10.02944183349609 C 7.824348449707031 12.23451995849609 6.093448638916016 14.80149078369141 4.884811401367188 17.65903854370117 C 3.634140014648438 20.61594009399414 3 23.75869941711426 3 27 C 3 30.24130058288574 3.634140014648438 33.38405990600586 4.884811401367188 36.34095764160156 C 6.093448638916016 39.19850921630859 7.824348449707031 41.76548004150391 10.02944183349609 43.97055816650391 C 12.23451995849609 46.17565155029297 14.80149078369141 47.90655136108398 17.65903854370117 49.11518859863281 C 20.61594009399414 50.36585998535156 23.75869941711426 51 27 51 C 30.24130058288574 51 33.38405990600586 50.36585998535156 36.34095764160156 49.11518859863281 C 39.19850921630859 47.90655136108398 41.76548004150391 46.17565155029297 43.97055816650391 43.97055816650391 C 46.17565155029297 41.76548004150391 47.90655136108398 39.19850921630859 49.11518859863281 36.34095764160156 C 50.36585998535156 33.38405990600586 51 30.24130058288574 51 27 C 51 23.75869941711426 50.36585998535156 20.61594009399414 49.11518859863281 17.65903854370117 C 47.90655136108398 14.80149078369141 46.17565155029297 12.23451995849609 43.97055816650391 10.02944183349609 C 41.76548004150391 7.824348449707031 39.19850921630859 6.093448638916016 36.34095764160156 4.884811401367188 C 33.38405990600586 3.634140014648438 30.24130058288574 3 27 3 M 27 0 C 41.91168975830078 0 54 12.08831024169922 54 27 C 54 41.91168975830078 41.91168975830078 54 27 54 C 12.08831024169922 54 0 41.91168975830078 0 27 C 0 12.08831024169922 12.08831024169922 0 27 0 Z"/>
+        </g>
+        <path id="android-microphone" class="cls-2" d="M20.432,24.724a5.645,5.645,0,0,0,5.863-5.362V7.612A5.645,5.645,0,0,0,20.432,2.25a5.645,5.645,0,0,0-5.863,5.362v11.75a5.646,5.646,0,0,0,5.863,5.362Zm10.359-5.888c0,5.362-4.984,9.116-10.359,9.116S10.073,24.2,10.073,18.836H6.75c0,6.076,5.278,11.17,11.727,11.976v6.4h3.909v-6.4c6.449-.893,11.727-5.9,11.727-11.975Z" transform="translate(26.213 550.965)"/>
+      </g>
+      <g id="Group_148" data-name="Group 148" transform="translate(-20 -1320)">
+        <rect id="Rectangle_236" data-name="Rectangle 236" class="cls-11" width="5" height="6" rx="2" transform="translate(80 1344)"/>
+        <rect id="Rectangle_240" data-name="Rectangle 240" class="cls-13" width="5" height="6" rx="2" transform="translate(220 1344)"/>
+        <rect id="Rectangle_236-2" data-name="Rectangle 236" class="cls-11" width="5" height="20" rx="2" transform="translate(88 1337)"/>
+        <rect id="Rectangle_237" data-name="Rectangle 237" class="cls-13" width="5" height="20" rx="2" transform="translate(227 1337)"/>
+        <rect id="Rectangle_236-3" data-name="Rectangle 236" class="cls-11" width="5" height="20" rx="2" transform="translate(96 1337)"/>
+        <rect id="Rectangle_238" data-name="Rectangle 238" class="cls-13" width="5" height="10" rx="2" transform="translate(235 1342)"/>
+        <rect id="Rectangle_236-4" data-name="Rectangle 236" class="cls-11" width="5" height="20" rx="2" transform="translate(105 1337)"/>
+        <rect id="Rectangle_239" data-name="Rectangle 239" class="cls-13" width="5" height="10" rx="2" transform="translate(243 1342)"/>
+        <rect id="Rectangle_236-5" data-name="Rectangle 236" class="cls-11" width="5" height="21" rx="2" transform="translate(115 1337)"/>
+        <rect id="Rectangle_241" data-name="Rectangle 241" class="cls-13" width="5" height="11" rx="2" transform="translate(253 1342)"/>
+        <rect id="Rectangle_236-6" data-name="Rectangle 236" class="cls-11" width="5" height="21" rx="2" transform="translate(124 1337)"/>
+        <rect id="Rectangle_242" data-name="Rectangle 242" class="cls-13" width="5" height="11" rx="2" transform="translate(261 1342)"/>
+        <rect id="Rectangle_236-7" data-name="Rectangle 236" class="cls-11" width="5" height="21" rx="2" transform="translate(131 1337)"/>
+        <rect id="Rectangle_243" data-name="Rectangle 243" class="cls-13" width="5" height="21" rx="2" transform="translate(271 1337)"/>
+        <rect id="Rectangle_236-8" data-name="Rectangle 236" class="cls-11" width="5" height="6" rx="2" transform="translate(140 1344)"/>
+        <rect id="Rectangle_244" data-name="Rectangle 244" class="cls-13" width="5" height="6" rx="2" transform="translate(280 1344)"/>
+        <rect id="Rectangle_236-9" data-name="Rectangle 236" class="cls-11" width="5" height="20" rx="2" transform="translate(169 1337)"/>
+        <rect id="Rectangle_247" data-name="Rectangle 247" class="cls-13" width="5" height="20" rx="2" transform="translate(306 1337)"/>
+        <rect id="Rectangle_236-10" data-name="Rectangle 236" class="cls-11" width="5" height="20" rx="2" transform="translate(178 1337)"/>
+        <rect id="Rectangle_248" data-name="Rectangle 248" class="cls-13" width="5" height="20" rx="2" transform="translate(316 1337)"/>
+        <rect id="Rectangle_236-11" data-name="Rectangle 236" class="cls-11" width="5" height="6" rx="2" transform="translate(150 1344)"/>
+        <rect id="Rectangle_245" data-name="Rectangle 245" class="cls-13" width="5" height="6" rx="2" transform="translate(290 1344)"/>
+        <rect id="Rectangle_236-12" data-name="Rectangle 236" class="cls-11" width="5" height="20" rx="2" transform="translate(159 1337)"/>
+        <rect id="Rectangle_246" data-name="Rectangle 246" class="cls-13" width="5" height="20" rx="2" transform="translate(299 1337)"/>
+        <rect id="Rectangle_236-13" data-name="Rectangle 236" class="cls-13" width="5" height="6" rx="2" transform="translate(187 1344)"/>
+        <rect id="Rectangle_249" data-name="Rectangle 249" class="cls-13" width="5" height="6" rx="2" transform="translate(325 1344)"/>
+        <rect id="Rectangle_236-14" data-name="Rectangle 236" class="cls-13" width="5" height="6" rx="2" transform="translate(194 1344)"/>
+        <rect id="Rectangle_250" data-name="Rectangle 250" class="cls-13" width="5" height="6" rx="2" transform="translate(333 1344)"/>
+        <rect id="Rectangle_236-15" data-name="Rectangle 236" class="cls-13" width="5" height="6" rx="2" transform="translate(203 1344)"/>
+        <rect id="Rectangle_251" data-name="Rectangle 251" class="cls-13" width="5" height="6" rx="2" transform="translate(342 1344)"/>
+        <rect id="Rectangle_236-16" data-name="Rectangle 236" class="cls-13" width="5" height="6" rx="2" transform="translate(210 1344)"/>
+        <rect id="Rectangle_252" data-name="Rectangle 252" class="cls-13" width="5" height="6" rx="2" transform="translate(350 1344)"/>
+      </g>
+    </g>
+    <g id="Component_17_1" data-name="Component 17 – 1" transform="translate(20 884)">
+      <g id="Rectangle_285" data-name="Rectangle 285" class="cls-14">
+        <rect class="cls-31" width="335" height="89" rx="6"/>
+        <rect class="cls-32" x="0.5" y="0.5" width="334" height="88" rx="5.5"/>
+      </g>
+      <text id="Muốn_tán_đổ_tôi." data-name="Muốn tán đổ tôi." class="cls-15" transform="translate(10 31)"><tspan x="0" y="0">Muốn tán đổ tôi.</tspan></text>
+    </g>
+    <g id="Component_17_2" data-name="Component 17 – 2" transform="translate(20 772)">
+      <g id="Rectangle_285-2" data-name="Rectangle 285" class="cls-14">
+        <rect class="cls-31" width="335" height="89" rx="6"/>
+        <rect class="cls-32" x="0.5" y="0.5" width="334" height="88" rx="5.5"/>
+      </g>
+      <text id="Nói_gì_đó_về_bản_thân." data-name="Nói gì đó về bản thân." class="cls-15" transform="translate(10 31)"><tspan x="0" y="0">Nói gì đó về bản thân.</tspan></text>
+    </g>
+    <g id="Component_18_1" data-name="Component 18 – 1" transform="translate(23 545)">
+      <text id="Điền_tâm_trạng_của_bạn_ở_đây..." data-name="Điền tâm trạng của bạn ở đây..." class="cls-16" transform="translate(0 19)"><tspan x="0" y="0">Điền tâm trạng của bạn ở đây...</tspan></text>
+    </g>
+    <line id="Line_30" data-name="Line 30" class="cls-5" x2="335" transform="translate(20.5 1862.5)"/>
+    <line id="Line_20" data-name="Line 20" class="cls-5" x2="335" transform="translate(20.5 1337.5)"/>
+    <line id="Line_31" data-name="Line 31" class="cls-5" x2="335" transform="translate(20.5 1924)"/>
+    <line id="Line_25" data-name="Line 25" class="cls-5" x2="335" transform="translate(20.5 1529.5)"/>
+    <line id="Line_34" data-name="Line 34" class="cls-5" x2="335" transform="translate(20.5 2052)"/>
+    <line id="Line_24" data-name="Line 24" class="cls-5" x2="335" transform="translate(20.5 1465.5)"/>
+    <line id="Line_27" data-name="Line 27" class="cls-5" x2="335" transform="translate(20.5 1657.5)"/>
+    <line id="Line_36" data-name="Line 36" class="cls-5" x2="335" transform="translate(20.5 2180)"/>
+    <line id="Line_28" data-name="Line 28" class="cls-5" x2="335" transform="translate(20.5 1721.5)"/>
+    <line id="Line_29" data-name="Line 29" class="cls-5" x2="335" transform="translate(20.5 1785.5)"/>
+    <line id="Line_22" data-name="Line 22" class="cls-5" x2="335" transform="translate(20.5 1401.5)"/>
+    <line id="Line_38" data-name="Line 38" class="cls-5" x2="335" transform="translate(20.5 1337.5)"/>
+    <line id="Line_32" data-name="Line 32" class="cls-5" x2="335" transform="translate(20.5 1988)"/>
+    <line id="Line_26" data-name="Line 26" class="cls-5" x2="335" transform="translate(20.5 1593.5)"/>
+    <line id="Line_35" data-name="Line 35" class="cls-5" x2="335" transform="translate(20.5 2116)"/>
+    <g id="Group_164" data-name="Group 164" transform="translate(0 180)">
+      <rect id="Rectangle_301" data-name="Rectangle 301" class="cls-2" width="334" height="64" transform="translate(21 2000)"/>
+      <text id="Tôn_giáo" data-name="Tôn giáo" class="cls-3" transform="translate(23 2025.5)"><tspan x="0" y="0">Tôn giáo</tspan></text>
+      <g id="Component_19_3" data-name="Component 19 – 3" transform="translate(326 2024.5)">
+        <text id="Ẩn" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Ẩn</tspan></text>
+      </g>
+      <text id="Phật_giáo" data-name="Phật giáo" class="cls-4" transform="translate(23 2050.5)"><tspan x="0" y="0">Phật giáo</tspan></text>
+    </g>
+    <line id="Line_37" data-name="Line 37" class="cls-5" x2="335" transform="translate(20.5 2245)"/>
+    <g id="Rectangle_302" data-name="Rectangle 302" class="cls-17" transform="translate(20 2328)">
+      <rect class="cls-31" width="133" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="132" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_312" data-name="Rectangle 312" class="cls-17" transform="translate(20 2328)">
+      <rect class="cls-31" width="133" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="132" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_303" data-name="Rectangle 303" class="cls-17" transform="translate(160 2328)">
+      <rect class="cls-31" width="147" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="146" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_313" data-name="Rectangle 313" class="cls-17" transform="translate(160 2328)">
+      <rect class="cls-31" width="147" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="146" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_305" data-name="Rectangle 305" class="cls-17" transform="translate(20 2377)">
+      <rect class="cls-31" width="75" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="74" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_314" data-name="Rectangle 314" class="cls-17" transform="translate(20 2377)">
+      <rect class="cls-31" width="75" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="74" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_304" data-name="Rectangle 304" class="cls-17" transform="translate(102 2377)">
+      <rect class="cls-31" width="140" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="139" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_315" data-name="Rectangle 315" class="cls-17" transform="translate(102 2377)">
+      <rect class="cls-31" width="140" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="139" height="32" rx="16"/>
+    </g>
+    <text id="Phim_Kinh_Dị" data-name="Phim Kinh Dị" class="cls-18" transform="translate(33 2351)"><tspan x="0" y="0">Phim Kinh Dị</tspan></text>
+    <text id="Phim_Kinh_Dị-2" data-name="Phim Kinh Dị" class="cls-18" transform="translate(33 2351)"><tspan x="0" y="0">Phim Kinh Dị</tspan></text>
+    <text id="Chơi_Nhạc_Cụ" data-name="Chơi Nhạc Cụ" class="cls-18" transform="translate(173 2351)"><tspan x="0" y="0">Chơi Nhạc Cụ</tspan></text>
+    <text id="Chơi_Nhạc_Cụ-2" data-name="Chơi Nhạc Cụ" class="cls-18" transform="translate(173 2351)"><tspan x="0" y="0">Chơi Nhạc Cụ</tspan></text>
+    <text id="EDM" class="cls-18" transform="translate(37 2400)"><tspan x="0" y="0">EDM</tspan></text>
+    <text id="EDM-2" data-name="EDM" class="cls-18" transform="translate(37 2400)"><tspan x="0" y="0">EDM</tspan></text>
+    <text id="Board_Game" data-name="Board Game" class="cls-18" transform="translate(119 2400)"><tspan x="0" y="0">Board Game</tspan></text>
+    <text id="Board_Game-2" data-name="Board Game" class="cls-18" transform="translate(119 2400)"><tspan x="0" y="0">Board Game</tspan></text>
+    <g id="Rectangle_306" data-name="Rectangle 306" class="cls-17" transform="translate(254 2376)">
+      <rect class="cls-31" width="92" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="91" height="32" rx="16"/>
+    </g>
+    <g id="Rectangle_316" data-name="Rectangle 316" class="cls-17" transform="translate(254 2376)">
+      <rect class="cls-31" width="92" height="33" rx="16.5"/>
+      <rect class="cls-32" x="0.5" y="0.5" width="91" height="32" rx="16"/>
+    </g>
+    <text id="Du_Lịch" data-name="Du Lịch" class="cls-18" transform="translate(267 2399)"><tspan x="0" y="0">Du Lịch</tspan></text>
+    <text id="Du_Lịch-2" data-name="Du Lịch" class="cls-18" transform="translate(267 2399)"><tspan x="0" y="0">Du Lịch</tspan></text>
+    <g id="Group_206" data-name="Group 206" transform="translate(0 47)">
+      <path id="close-3" data-name="close" class="cls-9" d="M2.834,3.542,0,.708.708,0,3.542,2.834,6.376,0l.708.708L4.25,3.542,7.084,6.376l-.708.708L3.542,4.25.708,7.084,0,6.376Z" transform="translate(212 2243.991) rotate(45)"/>
+      <g id="Ellipse_94" data-name="Ellipse 94" class="cls-19" transform="translate(202 2239)">
+        <circle class="cls-31" cx="10" cy="10" r="10"/>
+        <circle class="cls-32" cx="10" cy="10" r="9.5"/>
+      </g>
+    </g>
+    <g id="Group_204" data-name="Group 204" transform="translate(0 47)">
+      <path id="close-4" data-name="close" class="cls-9" d="M2.834,3.542,0,.708.708,0,3.542,2.834,6.376,0l.708.708L4.25,3.542,7.084,6.376l-.708.708L3.542,4.25.708,7.084,0,6.376Z" transform="translate(185 1783.991) rotate(45)"/>
+      <g id="Ellipse_102" data-name="Ellipse 102" class="cls-19" transform="translate(175 1779)">
+        <circle class="cls-31" cx="10" cy="10" r="10"/>
+        <circle class="cls-32" cx="10" cy="10" r="9.5"/>
+      </g>
+    </g>
+    <g id="Group_205" data-name="Group 205" transform="translate(0 47)">
+      <path id="close-5" data-name="close" class="cls-9" d="M2.834,3.542,0,.708.708,0,3.542,2.834,6.376,0l.708.708L4.25,3.542,7.084,6.376l-.708.708L3.542,4.25.708,7.084,0,6.376Z" transform="translate(257 1190.991) rotate(45)"/>
+      <g id="Ellipse_103" data-name="Ellipse 103" class="cls-19" transform="translate(247 1186)">
+        <circle class="cls-31" cx="10" cy="10" r="10"/>
+        <circle class="cls-32" cx="10" cy="10" r="9.5"/>
+      </g>
+    </g>
+    <g id="Component_19_4" data-name="Component 19 – 4" transform="translate(297 1882)">
+      <text id="Hiển_thị-3" data-name="Hiển thị" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Hiển thị</tspan></text>
+    </g>
+    <g id="Component_19_5" data-name="Component 19 – 5" transform="translate(326 1946)">
+      <text id="Ẩn-2" data-name="Ẩn" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Ẩn</tspan></text>
+    </g>
+    <g id="Component_19_6" data-name="Component 19 – 6" transform="translate(326 2010)">
+      <text id="Ẩn-3" data-name="Ẩn" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Ẩn</tspan></text>
+    </g>
+    <g id="Component_19_7" data-name="Component 19 – 7" transform="translate(326 2075)">
+      <text id="Ẩn-4" data-name="Ẩn" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Ẩn</tspan></text>
+    </g>
+    <g id="Component_19_8" data-name="Component 19 – 8" transform="translate(297 1360)">
+      <text id="Hiển_thị-4" data-name="Hiển thị" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Hiển thị</tspan></text>
+    </g>
+    <g id="Component_19_9" data-name="Component 19 – 9" transform="translate(297 1614)">
+      <text id="Hiển_thị-5" data-name="Hiển thị" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Hiển thị</tspan></text>
+    </g>
+    <g id="Component_19_10" data-name="Component 19 – 10" transform="translate(297 1424)">
+      <text id="Hiển_thị-6" data-name="Hiển thị" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Hiển thị</tspan></text>
+    </g>
+    <g id="Component_19_11" data-name="Component 19 – 11" transform="translate(326 1679)">
+      <text id="Ẩn-5" data-name="Ẩn" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Ẩn</tspan></text>
+    </g>
+    <g id="Component_19_12" data-name="Component 19 – 12" transform="translate(297 1488)">
+      <text id="Hiển_thị-7" data-name="Hiển thị" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Hiển thị</tspan></text>
+    </g>
+    <g id="Component_19_13" data-name="Component 19 – 13" transform="translate(326 1746)">
+      <text id="Ẩn-6" data-name="Ẩn" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Ẩn</tspan></text>
+    </g>
+    <g id="Component_19_14" data-name="Component 19 – 14" transform="translate(326 1552)">
+      <text id="Ẩn-7" data-name="Ẩn" class="cls-4" transform="translate(0 16)"><tspan x="0" y="0">Ẩn</tspan></text>
+    </g>
+    <g id="Group_179" data-name="Group 179" transform="translate(0 53)">
+      <g id="Component_22_1" data-name="Component 22 – 1" transform="translate(21 177)">
+        <g id="Group_177" data-name="Group 177" transform="translate(-141 -285)">
+          <g id="Rectangle_283" data-name="Rectangle 283" class="cls-8" transform="translate(141 290)">
+            <rect class="cls-31" width="93" height="88" rx="2"/>
+            <rect class="cls-32" x="0.5" y="0.5" width="92" height="87" rx="1.5"/>
+          </g>
+          <path id="close-6" data-name="close" class="cls-9" d="M4.534,5.667,0,1.133,1.133,0,5.667,4.534,10.2,0l1.133,1.133L6.8,5.667,11.334,10.2,10.2,11.335,5.667,6.8,1.133,11.335,0,10.2Z" transform="translate(186.951 325.986) rotate(45)"/>
+        </g>
+        <g id="Group_178" data-name="Group 178" transform="translate(-21 -177)">
+          <rect id="Rectangle_274" data-name="Rectangle 274" class="cls-7" width="93" height="88" rx="2" transform="translate(21 182)"/>
+          <g id="Group_174" data-name="Group 174" transform="translate(104 177.298)">
+            <g id="Ellipse_95" data-name="Ellipse 95" class="cls-17" transform="translate(0 -0.298)">
+              <circle class="cls-31" cx="7" cy="7" r="7"/>
+              <circle class="cls-32" cx="7" cy="7" r="6.5"/>
+            </g>
+            <path id="close-7" data-name="close" class="cls-9" d="M2.691,3.364,0,.673.673,0,3.364,2.691,6.055,0l.673.673L4.037,3.364,6.728,6.056l-.673.673L3.364,4.037.672,6.728,0,6.055Z" transform="translate(10.364 3.338) rotate(90)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_180" data-name="Group 180" transform="translate(118 53)">
+      <g id="Component_22_2" data-name="Component 22 – 2" transform="translate(21 177)">
+        <g id="Group_177-2" data-name="Group 177" transform="translate(-141 -285)">
+          <g id="Rectangle_283-2" data-name="Rectangle 283" class="cls-8" transform="translate(141 290)">
+            <rect class="cls-31" width="93" height="88" rx="2"/>
+            <rect class="cls-32" x="0.5" y="0.5" width="92" height="87" rx="1.5"/>
+          </g>
+          <path id="close-8" data-name="close" class="cls-9" d="M4.534,5.667,0,1.133,1.133,0,5.667,4.534,10.2,0l1.133,1.133L6.8,5.667,11.334,10.2,10.2,11.335,5.667,6.8,1.133,11.335,0,10.2Z" transform="translate(186.951 325.986) rotate(45)"/>
+        </g>
+        <g id="Group_178-2" data-name="Group 178" transform="translate(-21 -177)">
+          <rect id="Rectangle_274-2" data-name="Rectangle 274" class="cls-7" width="93" height="88" rx="2" transform="translate(21 182)"/>
+          <g id="Group_174-2" data-name="Group 174" transform="translate(104 177.298)">
+            <g id="Ellipse_95-2" data-name="Ellipse 95" class="cls-17" transform="translate(0 -0.298)">
+              <circle class="cls-31" cx="7" cy="7" r="7"/>
+              <circle class="cls-32" cx="7" cy="7" r="6.5"/>
+            </g>
+            <path id="close-9" data-name="close" class="cls-9" d="M2.691,3.364,0,.673.673,0,3.364,2.691,6.055,0l.673.673L4.037,3.364,6.728,6.056l-.673.673L3.364,4.037.672,6.728,0,6.055Z" transform="translate(10.364 3.338) rotate(90)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_181" data-name="Group 181" transform="translate(0 155)">
+      <g id="Component_22_3" data-name="Component 22 – 3" transform="translate(21 177)">
+        <g id="Group_177-3" data-name="Group 177" transform="translate(-141 -285)">
+          <g id="Rectangle_283-3" data-name="Rectangle 283" class="cls-8" transform="translate(141 290)">
+            <rect class="cls-31" width="93" height="88" rx="2"/>
+            <rect class="cls-32" x="0.5" y="0.5" width="92" height="87" rx="1.5"/>
+          </g>
+          <path id="close-10" data-name="close" class="cls-9" d="M4.534,5.667,0,1.133,1.133,0,5.667,4.534,10.2,0l1.133,1.133L6.8,5.667,11.334,10.2,10.2,11.335,5.667,6.8,1.133,11.335,0,10.2Z" transform="translate(186.951 325.986) rotate(45)"/>
+        </g>
+        <g id="Group_178-3" data-name="Group 178" transform="translate(-21 -177)">
+          <rect id="Rectangle_274-3" data-name="Rectangle 274" class="cls-7" width="93" height="88" rx="2" transform="translate(21 182)"/>
+          <g id="Group_174-3" data-name="Group 174" transform="translate(104 177.298)">
+            <g id="Ellipse_95-3" data-name="Ellipse 95" class="cls-17" transform="translate(0 -0.298)">
+              <circle class="cls-31" cx="7" cy="7" r="7"/>
+              <circle class="cls-32" cx="7" cy="7" r="6.5"/>
+            </g>
+            <path id="close-11" data-name="close" class="cls-9" d="M2.691,3.364,0,.673.673,0,3.364,2.691,6.055,0l.673.673L4.037,3.364,6.728,6.056l-.673.673L3.364,4.037.672,6.728,0,6.055Z" transform="translate(10.364 3.338) rotate(90)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_176" data-name="Group 176" transform="translate(345 229.298)">
+      <g id="Ellipse_95-4" data-name="Ellipse 95" class="cls-17" transform="translate(0 -0.298)">
+        <circle class="cls-31" cx="7" cy="7" r="7"/>
+        <circle class="cls-32" cx="7" cy="7" r="6.5"/>
+      </g>
+      <path id="close-12" data-name="close" class="cls-9" d="M2.691,3.364,0,.673.673,0,3.364,2.691,6.055,0l.673.673L4.037,3.364,6.728,6.056l-.673.673L3.364,4.037.672,6.728,0,6.055Z" transform="translate(10.364 3.338) rotate(90)"/>
+    </g>
+    <g id="Component_69_1" data-name="Component 69 – 1" transform="translate(0 1023)">
+      <g id="Group_215" data-name="Group 215" transform="translate(0 -970)">
+        <g class="cls-35" transform="matrix(1, 0, 0, 1, 0, -53)">
+          <rect id="Rectangle_259-2" data-name="Rectangle 259" class="cls-2" width="375" height="160" transform="translate(0 1023)"/>
+        </g>
+        <text id="Bài_hát_yêu_thích_của_tôi" data-name="Bài hát yêu thích của tôi" class="cls-20" transform="translate(20 1004)"><tspan x="0" y="0">Bài hát yêu thích của tôi</tspan></text>
+      </g>
+      <g id="Music" class="cls-21" transform="translate(0 -970)">
+        <rect id="Taylor_Swift_-_Reputation" class="cls-22" width="94" height="94" rx="5" transform="translate(20 1026)"/>
+        <g id="play" transform="translate(44 1048)">
+          <circle id="Ellipse_82-2" data-name="Ellipse 82" cx="25" cy="25" r="25"/>
+          <path id="eject-2" data-name="eject" class="cls-23" d="M18.589,1.16,31.465,17.282A2.35,2.35,0,0,1,30.6,20.89a3.572,3.572,0,0,1-1.727.437H3.115A2.892,2.892,0,0,1,0,18.725a2.305,2.305,0,0,1,.522-1.443L13.4,1.16A3.516,3.516,0,0,1,17.725.436a2.9,2.9,0,0,1,.864.72Z" transform="translate(36.327 9.583) rotate(90)"/>
+          <g id="Rec" transform="translate(15.293 8.441)">
+            <rect id="Rectangle_253" data-name="Rectangle 253" class="cls-2" width="6" height="34" rx="2" transform="translate(-0.293 -0.441)"/>
+            <rect id="Rectangle_254" data-name="Rectangle 254" class="cls-2" width="6" height="34" rx="2" transform="translate(13.707 -0.441)"/>
+          </g>
+        </g>
+      </g>
+      <g id="Group_213" data-name="Group 213" transform="translate(0 -970)">
+        <text id="Tên_bài_hát_hiển_thị_ở_đây" data-name="Tên bài hát hiển thị ở đây" class="cls-24" transform="translate(127 1075)"><tspan x="0" y="0">Tên bài hát hiển thị ở đây</tspan></text>
+        <g id="Group_216" data-name="Group 216">
+          <g id="Rectangle_325" data-name="Rectangle 325" class="cls-8" transform="translate(21 1026)">
+            <rect class="cls-31" width="93" height="94" rx="2"/>
+            <rect class="cls-32" x="0.5" y="0.5" width="92" height="93" rx="1.5"/>
+          </g>
+          <path id="music-2" data-name="music" class="cls-9" d="M22.573,5.072V18.537A3.107,3.107,0,1,1,20.5,15.606V7.143H12.215V20.609a3.107,3.107,0,1,1-2.072-2.931V5.072A2.072,2.072,0,0,1,12.215,3H20.5A2.072,2.072,0,0,1,22.573,5.072Z" transform="translate(51.908 1059.738)"/>
+        </g>
+      </g>
+      <g id="x" class="cls-21" transform="translate(0 -970)">
+        <g id="Ellipse_95-5" data-name="Ellipse 95" class="cls-17" transform="translate(261 990)">
+          <circle class="cls-31" cx="7" cy="7" r="7"/>
+          <circle class="cls-32" cx="7" cy="7" r="6.5"/>
+        </g>
+        <path id="close-13" data-name="close" class="cls-9" d="M2.691,3.364,0,.673.673,0,3.364,2.691,6.055,0l.673.673L4.037,3.364,6.728,6.056l-.673.673L3.364,4.037.672,6.728,0,6.055Z" transform="translate(271.364 993.637) rotate(90)"/>
+      </g>
+    </g>
+    <text id="Bấm_vào" data-name="Bấm vào" class="cls-25" transform="translate(57 158)"><tspan x="0" y="0">Bấm vào</tspan></text>
+    <text id="để_thay_đổi_thông_tin" data-name="để thay đổi thông tin" class="cls-25" transform="translate(159 158)"><tspan x="0" y="0">để thay đổi thông tin</tspan></text>
+    <text id="_bấm_vào_ảnh_để_chỉnh_sửa_" data-name="(bấm vào ảnh để chỉnh sửa)" class="cls-25" transform="translate(21 461)"><tspan x="0" y="0">(bấm vào ảnh để chỉnh sửa)</tspan></text>
+    <g id="Group_217" data-name="Group 217" transform="translate(-116 -1044)">
+      <path id="close-14" data-name="close" class="cls-9" d="M2.834,3.542,0,.708.708,0,3.542,2.834,6.376,0l.708.708L4.25,3.542,7.084,6.376l-.708.708L3.542,4.25.708,7.084,0,6.376Z" transform="translate(257 1190.991) rotate(45)"/>
+      <g id="Ellipse_103-2" data-name="Ellipse 103" class="cls-19" transform="translate(247 1186)">
+        <circle class="cls-31" cx="10" cy="10" r="10"/>
+        <circle class="cls-32" cx="10" cy="10" r="9.5"/>
+      </g>
+    </g>
+    <g id="Group_218" data-name="Group 218">
+      <g id="Group_168" data-name="Group 168">
+        <g id="Group_146" data-name="Group 146">
+          <g id="Group_145" data-name="Group 145">
+            <g class="cls-34" transform="matrix(1, 0, 0, 1, 0, 0)">
+              <rect id="Rectangle_199-2" data-name="Rectangle 199" class="cls-2" width="375" height="105"/>
+            </g>
+            <text id="Lê_Quang_Minh-2" data-name="Lê Quang Minh" class="cls-26" transform="translate(59 42)"><tspan x="0" y="0">Lê Quang Minh</tspan></text>
+            <text id="Chỉnh_sửa" data-name="Chỉnh sửa" class="cls-27" transform="translate(59 91)"><tspan x="0" y="0">Chỉnh sửa</tspan></text>
+            <text id="Xem_trước" data-name="Xem trước" class="cls-28" transform="translate(241 91)"><tspan x="0" y="0">Xem trước</tspan></text>
+            <path id="logout" class="cls-9" d="M36.255,22.3l-5-5,2.786-2.786L43.8,24.273l-9.753,9.753-2.786-2.786,5-5H23.278V22.3Z" transform="translate(64.278 59.027) rotate(180)"/>
+          </g>
+          <text id="_75_" data-name="75%" class="cls-29" transform="translate(238 41)"><tspan x="0" y="0">75%</tspan></text>
+        </g>
+        <line id="Line_18" data-name="Line 18" class="cls-30" y2="27" transform="translate(187.5 74)"/>
+      </g>
+      <text id="Lưu" class="cls-29" transform="translate(328 38)"><tspan x="0" y="0">Lưu</tspan></text>
+    </g>
+  </g>
+</svg>

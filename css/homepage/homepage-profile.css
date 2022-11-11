@@ -1,41 +1,98 @@
-:root {
-  --blue: #589de2;
-  --red: #e15f5e;
-  --green: #5be868;
+@font-face {
+  font-family: Roobert;
+  src: url(../../font/Roobert-Regular.ttf);
 }
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Roobert;
+  src: url(../../font/Roobert-Regular.ttf);
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(../../font/Inter-VariableFont_slnt_wght.ttf);
+}
+
+html {
+  display: table;
+  margin: auto;
+}
+
+body {
+
+  width: 390px;
+}
+
+header,
+footer {
+  width: 390px;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+  /* color: whitesmoke; */
+  /* font-family: cursive; */
+  position: relative;
+  font-family: Inter;
+}
+
+
 
 .container {
-  position: relative;
+  padding-top: 88px;
+  padding-bottom: 88px;
 }
 
-.container .menu a:first-child {
+header {
+  position: fixed;
+  top: 0;
+  /*Expanding to take full width*/
+  /* right: 0;
+  left: 0; */
+}
+
+footer {
+  position: fixed;
+  bottom: -2px;
+  /*Expanding to take full width*/
+  /* right: 0;
+  left: 0; */
+  box-shadow: 0px -4px 4px rgb(50 50 50 / 15%);
+  height: 60px;
+}
+
+header,
+footer {
+  background: rgb(255, 255, 255);
+  padding: 1em;
+  /* box-shadow: 1px 1px 1px 1px black; */
+  z-index: 100;
+}
+
+footer a {
+  color: #707070;
+  font-weight: bolder;
+  text-decoration: none;
+  vertical-align: middle;
+  margin: auto 0;
+}
+
+footer a:nth-child(5) {
   color: #e47170;
-}
-
-.container .content .action {
-  height: 132px;
-}
-
-.container .content .action span {
-  font-size: 1.8rem;
-}
-
-.container .content .action a:first-child span {
-  color: var(--blue);
-  margin-top: 32px;
-}
-
-.container .content .action a:nth-child(2) span {
-  color: var(--red);
-  margin-top: 80px;
-}
-
-.container .content .action a:nth-child(3) span {
-  color: var(--green);
-  margin-top: 80px;
-}
-
-.container .content .action a:nth-child(4) span {
-  color: var(--red);
-  margin-top: 32px;
 }

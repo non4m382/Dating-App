@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="375" height="812" viewBox="0 0 375 812">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Profile_26);
+      }
+
+      .cls-2, .cls-3, .cls-4, .cls-5, .cls-8 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        font-size: 36px;
+      }
+
+      .cls-3, .cls-4 {
+        font-family: Comfortaa-Bold, Comfortaa;
+      }
+
+      .cls-3, .cls-4, .cls-7 {
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        font-size: 25px;
+      }
+
+      .cls-5 {
+        font-size: 16px;
+        font-family: Inter-Medium, Inter;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        text-decoration: underline;
+      }
+
+      .cls-7, .cls-9 {
+        fill: #df5655;
+      }
+
+      .cls-7, .cls-8 {
+        font-size: 19px;
+      }
+
+      .cls-7 {
+        font-family: Inter-Bold, Inter;
+      }
+
+      .cls-8 {
+        font-family: Inter-SemiBold, Inter;
+        font-weight: 600;
+      }
+
+      .cls-10 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-11 {
+        filter: url(#Rectangle_342);
+      }
+
+      .cls-12 {
+        filter: url(#Rectangle_198);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff9191"/>
+      <stop offset="0.753" stop-color="#ee7272"/>
+      <stop offset="1" stop-color="#df5655"/>
+    </linearGradient>
+    <filter id="Rectangle_198" x="32.5" y="639.5" width="311" height="57" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_342" x="32.5" y="577.5" width="311" height="56" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur-2"/>
+      <feFlood flood-opacity="0.102"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Profile_26">
+      <rect width="375" height="812"/>
+    </clipPath>
+  </defs>
+  <g id="Profile_26" data-name="Profile – 26" class="cls-1">
+    <rect class="cls-10" width="375" height="812"/>
+    <path id="Path_2" data-name="Path 2" class="cls-2" d="M170.245,122.547v0c-.023,0-.045,0-.067,0a3.361,3.361,0,0,0-3.556,3.125v27.659a3.566,3.566,0,0,0,3.3,3.417,3.632,3.632,0,0,0,4.246-3.291V129.308c27.342,1.765,48.9,21.822,48.9,46.306,0,19.182-13.233,35.645-32.111,42.725a25.415,25.415,0,0,1-25.3-4.407l-7.615-6.693h0l-4.5-3.958-.724-.636-13.068-11.487,0,0a14.183,14.183,0,0,1-5.109-11.728c.517-7.586,7.527-13.747,16.157-14.2a18.554,18.554,0,0,1,13.342,4.491l0,0,.99.87,5.109,4.491,5.109-4.491.99-.87,0,0a18.554,18.554,0,0,1,13.342-4.491c8.63.454,15.64,6.615,16.157,14.2a14.183,14.183,0,0,1-5.109,11.728l0,0-6.1,5.361-9.367,8.234-1.068.939-.791.7h0a3.535,3.535,0,0,0-1.361,3.367,4.113,4.113,0,0,0,3.717,3.19,4.6,4.6,0,0,0,3.922-1.4l16.988-14.885h0l.157-.138,0,0a21.233,21.233,0,0,0,7.386-17.209c-.71-11.49-11.32-20.816-24.392-21.441a27.87,27.87,0,0,0-19.578,6.492l0,0,0,0a27.87,27.87,0,0,0-19.578-6.492c-13.071.624-23.682,9.951-24.392,21.441a21.231,21.231,0,0,0,7.386,17.209l0,0,.157.138h0l25.374,22.3c8.594,7.554,21.456,10.025,32.795,6.178,22.6-7.669,38.638-26.951,38.638-49.524C230.618,146.306,203.588,122.547,170.245,122.547Z" transform="translate(8.767 61.068)"/>
+    <g class="cls-12" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_198-2" data-name="Rectangle 198" class="cls-2" width="302" height="48" rx="5" transform="translate(37 642)"/>
+    </g>
+    <g class="cls-11" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_342-2" data-name="Rectangle 342" class="cls-2" width="302" height="47" rx="5" transform="translate(37 580)"/>
+    </g>
+    <text id="Destiny" class="cls-3" transform="translate(118 330)"><tspan x="0" y="0">Destiny</tspan></text>
+    <text id="Gặp_gỡ_định_mệnh" data-name="Gặp gỡ định mệnh" class="cls-4" transform="translate(67 371)"><tspan x="0" y="0">Gặp gỡ định mệnh</tspan></text>
+    <text id="Với_việc_bấm_vào_tiếp_tục_bạn_đã_đồng_ý_với_điều_khoản_dịch_vụ_của_chúng_tôi." data-name="Với việc bấm vào tiếp tục
+bạn đã đồng ý với điều khoản 
+dịch vụ của chúng tôi." class="cls-5" transform="translate(188 477)"><tspan x="-95.665" y="0">Với việc bấm vào tiếp tục</tspan><tspan x="-114.19" y="20">bạn đã đồng ý với </tspan><tspan class="cls-6" y="20" xml:space="preserve">điều khoản </tspan><tspan class="cls-6" x="-83.804" y="40">dịch vụ</tspan><tspan y="40" xml:space="preserve"> của chúng tôi.</tspan></text>
+    <text id="Tiếp_tục_với_Facebook" data-name="Tiếp tục với Facebook" class="cls-7" transform="translate(94 673)"><tspan x="0" y="0">Tiếp tục với Facebook</tspan></text>
+    <text id="Tiếp_tục_với_Google" data-name="Tiếp tục với Google" class="cls-7" transform="translate(98 611)"><tspan x="0" y="0">Tiếp tục với Google</tspan></text>
+    <text id="Hoặc_tiếp_tục_bằng_số_điện_thoại" data-name="Hoặc tiếp tục bằng số điện thoại" class="cls-8" transform="translate(40 731)"><tspan x="0" y="0">Hoặc tiếp tục bằng số điện thoại</tspan></text>
+    <path id="social-facebook" class="cls-9" d="M18.773,12.023V9.784c0-1.011.223-1.522,1.793-1.522h1.969V4.5H19.25C15.224,4.5,13.9,6.346,13.9,9.514v2.509H11.251v3.762H13.9V27.07h4.878V15.785h3.315l.446-3.762H18.774Z" transform="translate(54.521 648.071)"/>
+    <g id="google" transform="translate(60.828 593.202)">
+      <path id="Path_92" data-name="Path 92" class="cls-9" d="M7.276,13.691a6.415,6.415,0,0,0,12.465,2.138h-6.05V11.553H24.173v4.276h0A10.691,10.691,0,1,1,22.545,7.7l-3.5,2.453A6.415,6.415,0,0,0,7.276,13.691Z" transform="translate(-3 -3)"/>
+    </g>
+  </g>
+</svg>
