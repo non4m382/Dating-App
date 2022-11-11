@@ -1,0 +1,160 @@
+header a {
+  float: left;
+  color: var(--red);
+}
+
+header a:last-child {
+  float: right;
+}
+
+img {
+  width: 360px;
+  height: 480px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.container {
+  padding-top: 60px;
+  padding-bottom: 0;
+}
+
+.container .introduction {
+  margin-bottom: 20px;
+}
+
+.container .introduction .name {
+  display: flex;
+  font-size: 2rem;
+}
+
+.container .introduction .name p:first-child {
+  font-weight: bolder;
+  margin-right: 20px;
+}
+
+.container .info {
+  font-size: 1.5rem;
+}
+
+.container .info h5 {
+  font-weight: 900;
+  color: var(--gray);
+}
+
+.container .info p {
+  font-size: 1.6rem;
+  font-weight: 900;
+}
+.container .info ul {
+  padding: 0;
+  margin-bottom: 0;
+  /* border: 1px solid var(--gray);
+  border-radius: 4px; */
+}
+
+.container .info ul li {
+  list-style-type: none;
+}
+
+.container .info i {
+  color: var(--red);
+}
+
+.container .info .info-1 {
+  display: flex;
+  overflow-x: auto;
+  white-space: nowrap;
+  width: 100%;
+}
+
+.container .info .info-1 li {
+  display: inline;
+  font-size: 1.2rem;
+  padding: 4px 4px;
+  /* font-weight: bold; */
+  /* border-right: 1px solid; */
+}
+
+.container .info .info-2 {
+  margin-top: 20px;
+}
+
+.container .info .info-2 li {
+  /* display: inline; */
+  font-size: 1.3rem;
+  padding: 4px 4px;
+  font-weight: bold;
+  /* border-right: 1px solid; */
+}
+
+.container .info .info-2 li i {
+  width: 20px;
+  margin: 0 auto;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.container .info > hr {
+  margin: 4px 0;
+}
+
+.container .info .info-2 hr {
+  margin: 8px 0;
+  background-color: #4b4b4b;
+  font-size: 2rem;
+}
+
+.container .hobby {
+  margin-top: 20px;
+}
+
+.container .hobby h4 {
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+}
+
+.container .hobby span {
+  display: inline-block;
+  padding: 4px 20px;
+  border: 1px solid var(--red);
+  border-radius: 20px;
+  font-weight: bold;
+  margin-bottom: 12px;
+}
+
+.container .talk h4 {
+  font-size: 1.2rem;
+}
+
+.container .music div img {
+  width: 100px;
+  height: 100px;
+}
+
+.container .music h4 {
+  font-size: 1.2rem;
+}
+.container .music .col-8 {
+  padding-left: 0;
+}
+
+.container .music .col-8 p {
+  margin: 0;
+  font-weight: 900;
+  text-transform: capitalize;
+}
+
+.container .action {
+  padding: 40px 0;
+}
+
+.container .action a span {
+  font-size: 1.8rem;
+  margin: 0 20px;
+  color: var(--red);
+}
+
+.container .action a:last-child span {
+  color: var(--green);
+}
