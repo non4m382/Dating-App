@@ -107,16 +107,6 @@ header a:nth-child(2) {
   margin-top: 32px;
 }
 
-footer {
-  background-color: white;
-  vertical-align: middle;
-}
-
-footer a {
-  margin: auto 0;
-  color: var(--gray);
-}
-
 footer a:first-child {
   color: var(--red);
 }
