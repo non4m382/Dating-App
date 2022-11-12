@@ -82,7 +82,7 @@ header #logo {
   transform: translateY(-50%);
 }
 
-header a {
+header > a {
   float: right;
   color: #e74c3c;
   position: absolute;
@@ -91,7 +91,7 @@ header a {
   transform: translateY(-50%);
 }
 
-header a:nth-child(2) {
+header > a:nth-child(2) {
   color: #e74c3c;
   position: absolute;
   right: 72px;
