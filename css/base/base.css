@@ -98,6 +98,7 @@ header a:nth-child(2) {
   top: 50%;
   transform: translateY(-50%);
 }
+
 footer {
   background-color: white;
   vertical-align: middle;
