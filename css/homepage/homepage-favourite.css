@@ -1,0 +1,59 @@
+:root {
+    --blue: #589de2;
+    --red: #e15f5e;
+    --green: #5be868;
+    --gray: #707070;
+  }
+  
+  .container {
+    position: relative;
+  }
+  
+  #avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  header #logo {
+    float: left;
+    color: #e74c3c;
+    position: absolute;
+    left: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  header a {
+    float: right;
+    color: #e74c3c;
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  header a:nth-child(2) {
+    color: #e74c3c;
+    position: absolute;
+    right: 72px;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+  
+  
+  footer {
+    background-color: white;
+    vertical-align: middle;
+  }
+  
+  footer a {
+    margin: auto 0;
+    color: var(--gray);
+  }
+  
+  footer a:nth-child(3) {
+    color: var(--red);
+  }
