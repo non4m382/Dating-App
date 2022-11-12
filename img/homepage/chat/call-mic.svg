@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="76" height="76" viewBox="0 0 76 76">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #589de2;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #589de2;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_351" data-name="Group 351" transform="translate(-150 -682)">
+    <g id="Component_4_1" data-name="Component 4 – 1" transform="translate(150 682)">
+      <g id="Ellipse_39" data-name="Ellipse 39" class="cls-1">
+        <circle class="cls-3" cx="38" cy="38" r="38"/>
+        <circle class="cls-4" cx="38" cy="38" r="35.5"/>
+      </g>
+      <path id="android-microphone" class="cls-2" d="M25.982,33.841c4.534,0,8.242-3.392,8.242-7.537V9.787c0-4.145-3.708-7.537-8.242-7.537s-8.242,3.392-8.242,7.537V26.3c0,4.145,3.71,7.537,8.242,7.537Zm14.562-8.276c0,7.537-7.006,12.814-14.562,12.814S11.42,33.1,11.42,25.565H6.75c0,8.541,7.419,15.7,16.485,16.835v8.992h5.494V42.4c9.066-1.256,16.485-8.292,16.485-16.833Z" transform="translate(11.518 10.75)"/>
+    </g>
+  </g>
+</svg>

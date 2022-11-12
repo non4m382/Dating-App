@@ -1,10 +1,13 @@
-header a {
-  float: left;
-  color: var(--red);
+header {
+  display: flex;
+  justify-content: space-between;
 }
 
-header a:last-child {
-  float: right;
+body a.top {
+  /* position: static; */
+  position: static;
+  color: var(--red);
+  padding-top: 20px;
 }
 
 img {

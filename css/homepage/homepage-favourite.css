@@ -5,8 +5,9 @@
     --gray: #707070;
 }
 
-.container {
+body div.container {
     position: relative;
+    padding-top: 120px;
 }
 
 #avatar {
@@ -17,7 +18,7 @@
 }
 
 #head {
-    height: 90px;
+    height: 100px;
 }
 
 header {
