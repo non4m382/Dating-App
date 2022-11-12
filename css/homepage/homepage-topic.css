@@ -1,58 +1,5 @@
-@font-face {
-  font-family: Roobert;
-  src: url(../../font/Roobert-Regular.ttf);
-}
-
-@font-face {
-  font-family: Comfortaa;
-  src: url(../../font/Comfortaa-VariableFont_wght.ttf);
-  font-weight: bold;
-}
-
-@font-face {
-  font-family: Inter;
-  src: url(../../font/Inter-VariableFont_slnt_wght.ttf);
-}
-
-html {
-  display: table;
-  margin: auto;
-}
-
-body {
-  width: 390px;
-}
-
-header,
-footer {
-  width: 390px;
-}
-
-header a {
-  right: 0;
-  /* width: 1999px; */
-}
-
-.container .menu a:nth-child(2) {
-  color: #e47170;
-}
-
 #avatar {
   right: 15px;
-}
-
-body {
-  margin: 0;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  font-family: Inter;
-}
-
-.container {
-  padding-top: 88px;
-  padding-bottom: 88px;
 }
 
 .container .content h5 {
