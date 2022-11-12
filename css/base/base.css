@@ -15,6 +15,14 @@
   src: url(../../font/Inter-VariableFont_slnt_wght.ttf);
 }
 
+:root {
+  --blue: #589de2;
+  --red: #e15f5e;
+  --green: #5be868;
+  --gray: #707070;
+}
+
+
 html {
   display: table;
   margin: auto;
