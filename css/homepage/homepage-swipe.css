@@ -5,8 +5,9 @@
   --gray: #707070;
 }
 
-.container {
+div.container {
   position: relative;
+  padding-bottom: 64px;
 }
 
 #avatar {
