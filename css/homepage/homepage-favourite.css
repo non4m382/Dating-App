@@ -1,161 +1,166 @@
 :root {
-    --blue: #589de2;
-    --red: #e15f5e;
-    --green: #5be868;
-    --gray: #707070;
+  --blue: #589de2;
+  --red: #e15f5e;
+  --green: #5be868;
+  --gray: #707070;
 }
 
-.container {
-    position: relative;
+body div.container {
+  position: relative;
+  padding-top: 120px;
 }
 
 #avatar {
-    width: 36px;
-    height: 36px;
-    border-radius: 50%;
-    object-fit: cover;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 #head {
-    height: 90px;
+  height: 100px;
 }
 
 header {
-    box-shadow: 0px 4px 4px rgb(50 50 50 / 15%);
-    height: 96px;
+  box-shadow: 0px 4px 4px rgb(50 50 50 / 15%);
+  height: 96px;
 }
 
 header #logo {
-    float: left;
-    color: #e74c3c;
-    position: absolute;
-    left: 15px;
-    top: 30px;
-    transform: translateY(-50%);
+  float: left;
+  color: #e74c3c;
+  position: absolute;
+  left: 15px;
+  top: 30px;
+  transform: translateY(-50%);
 }
 
 #head a {
-    top: 30px;
+  top: 30px;
 }
 
 header .top a {
-    float: right;
-    color: #e74c3c;
-    position: absolute;
-    right: 15px;
-    top: 50%;
-    transform: translateY(-50%);
+  float: right;
+  color: #e74c3c;
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 header .top a:nth-child(2) {
-    color: #e74c3c;
-    position: absolute;
-    right: 15px;
-    top: 50%;
-    transform: translateY(-50%);
+  color: #e74c3c;
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 #avatar {
-    right: 15px;
+  right: 15px;
 }
 
 .bottom {
-    display: flex;
-    justify-content: space-around;
-    padding-top: 48px;
-    
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 48px;
+  font-family: Comfortaa;
 }
 
 .bottom a {
-    color: var(--gray);
-    text-decoration: none;
+  color: var(--gray);
+  text-decoration: none;
+}
+
+.bottom a:first-child {
+    font-weight: bold;
 }
 
 div.container {
-    padding-top: 120px;
+  padding-top: 120px;
 }
 
 .container .people .people-list {
-    position: relative;
-    margin-bottom: 20px;
+  position: relative;
+  margin-bottom: 20px;
 }
 
 .container .people .people-list .chat {
-    position: absolute;
-    z-index: 1;
-    top: 12px;
-    right: 28px;
+  position: absolute;
+  z-index: 1;
+  top: 12px;
+  right: 28px;
 }
 
-.container .people .people-list .chat a{
-    color: #e15f5e;
+.container .people .people-list .chat a {
+  color: #e15f5e;
 }
 
-.container .people .people-list .status img{
-    position: absolute;
-    z-index: 1;
-    top: 165.5px;
-    left: 32px;
+.container .people .people-list .status img {
+  position: absolute;
+  z-index: 1;
+  top: 165.5px;
+  left: 32px;
 }
 
 .container .people .people-list .status p {
-    position: absolute;
-    z-index: 1;
-    top: 160px;
-    left: 48px;
+  position: absolute;
+  z-index: 1;
+  top: 160px;
+  left: 48px;
 }
 
 .container .people .people-list .pic {
-    border: #e15f5e solid 4px;
-    border-radius: 8px;
-    z-index: 10;
+  border: #e15f5e solid 4px;
+  border-radius: 8px;
+  z-index: 10;
 }
 
 .container .people .people-list .pic img {
-    width: 100%;
-    height: 240px;
-    border-radius: 4px;
-    /* border: #e15f5e solid 5px; */
-    object-fit: cover;
-    /* filter: brightness(70%); */
-    z-index: 0;
+  width: 100%;
+  height: 240px;
+  border-radius: 4px;
+  /* border: #e15f5e solid 5px; */
+  object-fit: cover;
+  /* filter: brightness(70%); */
+  z-index: 0;
 }
 
 .container .people .people-list h5 {
-    position: absolute;
-    top: 186px;
-    left: 32px;
-    width: 312px;
-    color: white;
-    width: 132px;
-    font-size: 1.2rem;
-    font-weight: bolder;
-    z-index: 1;
-    text-shadow: 2px 2px 4px var(--gray);
+  position: absolute;
+  top: 186px;
+  left: 32px;
+  width: 312px;
+  color: white;
+  width: 132px;
+  font-size: 1.2rem;
+  font-weight: bolder;
+  z-index: 1;
+  text-shadow: 2px 2px 4px var(--gray);
 }
 
 .container .people .people-list p {
-    position: absolute;
-    top: 210px;
-    left: 32px;
-    width: 312px;
-    color: white;
-    width: 132px;
-    z-index: 1;
-    text-shadow: 2px 2px 4px var(--gray);
-    font-size: 1rem;
+  position: absolute;
+  top: 210px;
+  left: 32px;
+  width: 312px;
+  color: white;
+  width: 132px;
+  z-index: 1;
+  text-shadow: 2px 2px 4px var(--gray);
+  font-size: 1rem;
 }
 
 footer {
-    background-color: white;
-    vertical-align: middle;
+  background-color: white;
+  vertical-align: middle;
 }
 
 footer a {
-    margin: auto 0;
-    color: var(--gray);
+  margin: auto 0;
+  color: var(--gray);
 }
 
 footer a:nth-child(3) {
-    color: var(--red);
+  color: var(--red);
 }
