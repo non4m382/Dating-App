@@ -16,13 +16,26 @@
     object-fit: cover;
 }
 
+#head {
+    height: 90px;
+}
+
+header {
+    box-shadow: 0px 4px 4px rgb(50 50 50 / 15%);
+    height: 96px;
+}
+
 header #logo {
     float: left;
     color: #e74c3c;
     position: absolute;
     left: 15px;
-    top: 50%;
+    top: 30px;
     transform: translateY(-50%);
+}
+
+#head a {
+    top: 30px;
 }
 
 header .top a {
@@ -44,6 +57,13 @@ header .top a:nth-child(2) {
 
 #avatar {
     right: 15px;
+}
+
+.bottom {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 48px;
+    
 }
 
 .bottom a {

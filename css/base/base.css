@@ -74,12 +74,12 @@ footer {
   object-fit: cover;
 }
 
-header #logo {
+header > #logo {
   float: left;
   color: #e74c3c;
   position: absolute;
   left: 15px;
-  top: 50%;
+  top: 30px;
   transform: translateY(-50%);
 }
 
@@ -88,7 +88,7 @@ header > a {
   color: #e74c3c;
   position: absolute;
   right: 15px;
-  top: 50%;
+  top: 30px;
   transform: translateY(-50%);
 }
 
