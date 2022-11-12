@@ -60,7 +60,7 @@ footer {
   padding: 0;
 }
 
-.container {
+div.container {
   padding-top: 88px;
   padding-bottom: 88px;
   overflow: auto;
