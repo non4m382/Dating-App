@@ -23,7 +23,8 @@ body div.container {
   padding: 120px 20px 20px 20px;
 }
 
-header {
+body header {
+  display: block;
   height: 96px;
   box-shadow: 0px 4px 4px rgb(50 50 50 / 15%);
 }

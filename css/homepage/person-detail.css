@@ -1,11 +1,13 @@
-
-
-#back {
-  left: -300px;
+header {
+  display: flex;
+  justify-content: space-between;
 }
 
-#setting {
-  right: 20px;
+body a.top {
+  /* position: static; */
+  position: static;
+  color: var(--red);
+  padding-top: 20px;
 }
 
 img {

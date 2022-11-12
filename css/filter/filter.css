@@ -78,8 +78,12 @@ header a i {
   padding-left: 15px;
 }
 
+footer div {
+  display: flex;
+}
+
 footer a {
-  color: #707070;
+  color: whitesmoke;
   font-weight: bolder;
   text-decoration: none;
   vertical-align: middle;

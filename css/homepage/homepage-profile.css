@@ -7,153 +7,157 @@
 
 body div.container {
   position: relative;
-  padding: 20px 20px 20px 20px;
+  padding: 120px 20px 20px 20px;
+}
+
+#container {
+  padding-top: 40px;
 }
 
 #main-profile {
   padding: 20px 20px 20px 20px;
 }
 .container .profile-info {
-  display: flex;
-  font-family: Inter;
+    display: flex;
+    font-family: Inter;
 }
 
 .container .profile-info div {
-  /* padding-left: 10px; */
-  padding: 5px;
+    /* padding-left: 10px; */
+    padding: 5px;
 }
 
 .container .profile-info .avatar a img {
-  width: 54px;
-  height: 54px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: var(--red) solid 5px;
-  border-width: 0px 0px 5px 5px;
+    width: 54px;
+    height: 54px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: var(--red) solid 5px;
+    border-width: 0px 0px 5px 5px;
 }
 
 .container .profile-info .avatar p {
-  font-size: 16px;
-  font-weight: 900;
-  color: var(--red);
-  text-align: center;
+    font-size: 16px;
+    font-weight: 900;
+    color: var(--red);
+    text-align: center;
 }
 
 .container .profile-info .main-info h1 {
-  font-size: 20px;
-  font-weight: 900;
+    font-size: 20px;
+    font-weight: 900;
 }
 
 .container .profile-info .main-info p {
-  padding: 0;
-  margin-bottom: 5px;
+    padding: 0;
+    margin-bottom: 5px;
 }
 
 .container .profile-info .main-info .time-join {
-  font-size: 15px;
-  font-weight: 900;
+    font-size: 15px;
+    font-weight: 900;
 }
 
 .container .profile-info .main-info .authy {
-  font-size: 12px;
-  font-weight: 900;
-  color: var(--red);
+    font-size: 12px;
+    font-weight: 900;
+    color: var(--red);
 }
 
 .container .profile-info .age p {
-  font-family: Inter;
-  font-size: 16px;
-  font-weight: 900;
-  color: var(--red);
-  text-align: center;
-  width: 84px;
-  border-radius: 1em;
-  border: #e15f5e solid 2px;
-  margin-left: 36px;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 900;
+    color: var(--red);
+    text-align: center;
+    width: 84px;
+    border-radius: 1em;
+    border: #e15f5e solid 2px;
+    margin-left: 36px;
 }
 
 .container .profile-edit {
-  border: var(--red) solid 5px;
-  border-radius: 1.5em;
-  box-sizing: border-box;
-  width: 300px;
-  height: 275px;
-  /* padding: 10%; */
-  margin: auto;
-  margin-top: 5%;
-  text-align: center;
+    border: var(--red) solid 5px;
+    border-radius: 1.5em;
+    box-sizing: border-box;
+    width: 300px;
+    height: 275px;
+    /* padding: 10%; */
+    margin: auto;
+    margin-top: 5%;
+    text-align: center;
 }
 
 .container .profile-edit img {
-  width: 50px;
-  height: 50px;
-  margin: 24px 0px 16px 0px;
+    width: 50px;
+    height: 50px;
+    margin: 24px 0px 16px 0px;
 }
 
 .container .profile-edit h2 {
-  font-size: 24px;
-  font-weight: bolder;
+    font-size: 24px;
+    font-weight: bolder;
 }
 
 .container .profile-edit p {
-  padding: 0 10% 0 10%;
-  font-weight: bold;
+    padding: 0 10% 0 10%;
+    font-weight: bold;
 }
 
 .container .profile-edit .change {
-  background-color: #e15f5e;
-  border-radius: 1em;
-  width: 160px;
-  height: 30px;
-  padding: 5px;
-  margin-left: 4em;
+    background-color: #e15f5e;
+    border-radius: 1em;
+    width: 160px;
+    height: 30px;
+    padding: 5px;
+    margin-left: 4em;
 }
 
 .container .profile-edit .change a {
-  background-color: #e15f5e;
-  border-radius: 1em;
-  color: white;
-  font-size: 14px;
-  text-decoration: none;
+    background-color: #e15f5e;
+    border-radius: 1em;
+    color: white;
+    font-size: 14px;
+    text-decoration: none;
 }
 
 .container .more div li {
-  display: flex;
-  align-items: center;
+    display: flex;
+    align-items: center;
 }
 
 ul {
-  list-style-type: none;
-  padding: 20px 0;
-  font-family: Inter;
-  font-size: 18px;
-  font-weight: 900;
+    list-style-type: none;
+    padding: 20px 0;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 900;
 }
 
 li {
-  display: flex;
-  justify-content: space-between;
-  padding: 10px 10px 10px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 10px 10px;
 }
 
 hr {
-  margin: 15px 5px;
+    margin: 15px 5px;
 }
 
 .container .more i {
-  color: #e15f5e;
+    color: #e15f5e;
 }
 
 footer {
-  background-color: white;
-  vertical-align: middle;
+    background-color: white;
+    vertical-align: middle;
 }
 
 footer a {
-  margin: auto 0;
-  color: var(--gray);
+    margin: auto 0;
+    color: var(--gray);
 }
 
 footer a:nth-child(5) {
-  color: var(--red);
+    color: var(--red);
 }
