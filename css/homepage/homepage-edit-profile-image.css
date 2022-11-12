@@ -68,3 +68,41 @@
     color: var(--gray);
     font-weight: 100;
   }
+
+  /* .container {
+    vertical-align: middle;
+  } */
+
+  .container .image {
+    position: relative;
+  }
+  .container .image .avatar img{
+    width: 360px;
+    height: 480px;
+    object-fit: cover;
+    border-radius: 8px;
+    /* position: absolute;
+    z-index: 0; */
+  }
+
+  .container .image .camera img{
+    top: 5px;
+    right: -5px;
+    position: absolute;
+    z-index: 1;
+  }
+
+  .container > img {
+    margin: 5% 45%;
+    margin-top: 10%;
+  }
+
+  .container > p {
+    width: 360px;
+    height: 10%;
+    border-radius: 0.5em;
+    border: #e15f5e solid 2px;
+    text-align: center;
+    padding: 3%;
+    font-weight: bold;
+  }
