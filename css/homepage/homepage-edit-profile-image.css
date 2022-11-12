@@ -1,0 +1,70 @@
+::-webkit-input-placeholder {
+    font-style: italic;
+  }
+  :-moz-placeholder {
+    font-style: italic;
+  }
+  ::-moz-placeholder {
+    font-style: italic;
+  }
+  :-ms-input-placeholder {
+    font-style: italic;
+  }
+  
+  :root {
+    --blue: #589de2;
+    --red: #e15f5e;
+    --green: #5be868;
+    --gray: #707070;
+  }
+  
+  .container {
+    position: relative;
+    padding: 120px 20px 20px 20px;
+  }
+  
+  header {
+    /* height: 96px; */
+    box-shadow: 0px 4px 4px rgb(50 50 50 / 15%);
+  }
+  
+  header div:first-child {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+  }
+  header div:first-child a {
+    font-weight: bold;
+    color: var(--red);
+  }
+  
+  header div:first-child h5 {
+    margin-left: 4px;
+    font-family: Comfortaa;
+    margin: 0 18% 0 18%;
+    /* padding-right: 72px; */
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  header div:first-child span {
+    font-size: 1rem;
+    margin-left: 12px;
+    font-weight: bold;
+    color: var(--red);
+  }
+  
+  header div:last-child {
+    display: flex;
+    justify-content: space-around;
+  }
+  header div:last-child span {
+    font-size: large;
+    font-weight: bold;
+  }
+  
+  header div:last-child span:last-child {
+    font-size: large;
+    color: var(--gray);
+    font-weight: 100;
+  }
