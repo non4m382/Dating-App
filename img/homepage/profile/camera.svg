@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="29" viewBox="0 0 65 29">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        font-size: 16px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <g id="Group_349" data-name="Group 349" transform="translate(-284 -108)">
+    <rect id="Rectangle_310" data-name="Rectangle 310" class="cls-1" width="65" height="29" rx="6" transform="translate(284 108)"/>
+    <path id="camera" class="cls-2" d="M6.412,21.711A1.912,1.912,0,0,1,4.5,19.8V6.412A1.912,1.912,0,0,1,6.412,4.5H19.8a1.912,1.912,0,0,1,1.912,1.912V19.8A1.912,1.912,0,0,1,19.8,21.711Zm11.474-15.3V8.325H19.8V6.412ZM13.105,17.886a4.781,4.781,0,1,0-4.781-4.781A4.781,4.781,0,0,0,13.105,17.886Zm0-1.912a2.868,2.868,0,1,0-2.868-2.868A2.868,2.868,0,0,0,13.105,15.974Z" transform="translate(285.609 109.395)"/>
+    <text id="Đổi" class="cls-3" transform="translate(314 128)"><tspan x="0" y="0">Đổi</tspan></text>
+  </g>
+</svg>
