@@ -7,18 +7,18 @@
 
       .cls-2 {
         fill: rgba(212,207,207,0.41);
-        opacity: 0.8;
+        opacity: 0.6;
       }
 
       .cls-3, .cls-4 {
         fill: #fff;
       }
 
-      .cls-3 {
+      .cls-2 {
         fill-rule: evenodd;
       }
 
-      .cls-4 {
+      .cls-3 {
         font-size: 16px;
         font-family: SegoeUI, Segoe UI;
       }

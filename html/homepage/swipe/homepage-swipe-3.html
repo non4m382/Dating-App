@@ -10,22 +10,18 @@
     <link rel="stylesheet" href="../../../css/homepage/homepage-swipe.css">
     <title>Swipe</title>
     <script src="https://kit.fontawesome.com/28a1dc3e10.js" crossorigin="anonymous"></script>
+    <script src="../../../js/base-homepage.js"></script>
 </head>
 
 <body>
-    <header class="vertical-align">
-        <img id="logo" src="../../../img/Logo.png" alt="">
-        <a href="homepage-profile.html">
-            <img id="avatar" src="../../../img/app/avatar.jpg" alt="">
-        </a>
-        <a href="../../filter/fitler.html"><i class="fa-solid fa-sliders fa-2xl"></i></a>
-    </header>
+    <div include-html="../header-footer/homepage-header.html"></div>
     <div class="container">
         <div class="swipe">
-            <div class="image">
+            <div class="image" id="image-3">
                 <img class="img-swipe" src="../../../img/app/swipe-2.jpg" alt="">
                 <div class="name">
-                    <p>Vi Vu</p><p>23</p>
+                    <p>Vi Vu</p>
+                    <p>23</p>
                 </div>
                 <div class="place align-middle">
                     <i class="fa-solid fa-location-dot"></i>
@@ -33,10 +29,18 @@
                 </div>
             </div>
 
-            <div class="image">
+            <div id="yes-circle" class="circle">
+                <span class="fa-stack small">
+                    <i class="fa-regular fa-circle fa-stack-2x"></i>
+                    <i class="fa-solid fa-check fa-stack-1x"></i>
+                </span>
+            </div>
+
+            <div class="image" id="image-2">
                 <img class="img-swipe" src="../../../img/app/swipe-3.jpg" alt="">
                 <div class="name">
-                    <p>Vi Vu</p><p>23</p>
+                    <p>Vi Vu</p>
+                    <p>23</p>
                 </div>
                 <div class="place align-middle">
                     <i class="fa-solid fa-location-dot"></i>
@@ -46,7 +50,7 @@
         </div>
         <div class="action d-flex justify-content-around">
             <!-- back -->
-            <a href="">
+            <a href="homepage-swipe-2.html">
                 <span class="fa-stack small align-top">
                     <i class="fa-regular fa-circle fa-stack-2x"></i>
                     <i class="fa-solid fa-caret-left fa-stack-2x"></i>
@@ -54,7 +58,7 @@
             </a>
 
             <!-- no -->
-            <a href="">
+            <a href="#">
                 <span class="fa-stack small">
                     <i class="fa-regular fa-circle fa-stack-2x"></i>
                     <i class="fa-solid fa-x fa-stack-1x"></i>
@@ -70,7 +74,7 @@
             </a>
 
             <!-- like -->
-            <a href="">
+            <a href="../swipe/person-detail.html">
                 <span class="fa-stack small">
                     <i class="fa-regular fa-circle fa-stack-2x"></i>
                     <i class="fa-solid fa-user fa-stack-1x"></i>
@@ -78,17 +82,14 @@
             </a>
         </div>
     </div>
-    <footer class="d-flex justify-content-around ">
-        <a href="homepage-swipe.html"><i class="fa-solid fa-heart fa-2x"></i></a>
-        <a href="homepage-topic.html"><i class="fa-solid fa-shapes fa-2x"></i></a>
-        <a href="homepage-favorite.html"><i class="fa-solid fa-star fa-2x"></i></a>
-        <a href="homepage-chat.html"><i class="fa-regular fa-comment-dots fa-2x"></i></a>
-        <a href="homepage-profile.html"><i class="fa-solid fa-user fa-2x"></i></a>
-    </footer>
+    <div include-html="../header-footer/homepage-footer.html"></div>
 
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.0/dist/jquery.slim.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
+    <script>
+        includeHTML();
+    </script>
 </body>
 
 </html>

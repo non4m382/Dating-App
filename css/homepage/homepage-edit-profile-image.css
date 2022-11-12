@@ -77,7 +77,7 @@
     position: relative;
   }
   .container .image .avatar img{
-    width: 360px;
+    width: 350px;
     height: 480px;
     object-fit: cover;
     border-radius: 8px;
@@ -86,8 +86,8 @@
   }
 
   .container .image .camera img{
-    top: 5px;
-    right: -5px;
+    top: 4px;
+    right: 4px;
     position: absolute;
     z-index: 1;
   }
@@ -98,7 +98,7 @@
   }
 
   .container > p {
-    width: 360px;
+    width: 350px;
     height: 10%;
     border-radius: 0.5em;
     border: #e15f5e solid 2px;
