@@ -37,12 +37,17 @@
   header a:nth-child(2) {
     color: #e74c3c;
     position: absolute;
-    right: 72px;
+    right: 15px;
     top: 50%;
     transform: translateY(-50%);
   }
   
-  
+  .title a {
+    color: var(--gray);
+    text-decoration: none;
+  }
+
+
   
   footer {
     background-color: white;
