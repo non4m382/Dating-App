@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="94" viewBox="0 0 93 94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #df5655;
+        stroke-dasharray: 5;
+      }
+
+      .cls-2 {
+        fill: #df5655;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_349" data-name="Group 349" transform="translate(-21 -1026)">
+    <g id="Rectangle_325" data-name="Rectangle 325" class="cls-1" transform="translate(21 1026)">
+      <rect class="cls-3" width="93" height="94" rx="2"/>
+      <rect class="cls-4" x="0.5" y="0.5" width="92" height="93" rx="1.5"/>
+    </g>
+    <path id="music" class="cls-2" d="M22.573,5.072V18.537A3.107,3.107,0,1,1,20.5,15.606V7.143H12.215V20.609a3.107,3.107,0,1,1-2.072-2.931V5.072A2.072,2.072,0,0,1,12.215,3H20.5A2.072,2.072,0,0,1,22.573,5.072Z" transform="translate(51.908 1059.738)"/>
+  </g>
+</svg>
