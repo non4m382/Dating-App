@@ -42,6 +42,10 @@ header a:nth-child(2) {
   transform: translateY(-50%);
 }
 
+.container .swipe {
+  position: relative;
+}
+
 .container .swipe img {
   width: 360px;
   height: 520px;
@@ -110,4 +114,70 @@ header a:nth-child(2) {
 
 footer a:first-child {
   color: var(--red);
+}
+
+#image-1 {
+  position: absolute;
+  animation: moveleft 2s;
+  z-index: 10;
+  animation-fill-mode: forwards;
+}
+
+#image-3 {
+  position: absolute;
+  animation: moveright 2s;
+  z-index: 10;
+  animation-fill-mode: forwards;
+}
+
+#image-2 {
+  z-index: 1;
+}
+
+.circle {
+  position: absolute;
+  z-index: 10;
+  font-size: 4rem;
+  left: 50%;
+  top: 50%;
+  animation-delay: 1s;
+  transform: translate(-50%, -50%);
+  animation: fade 2s;
+  z-index: 10;
+  animation-fill-mode: forwards;
+}
+
+#no-circle span {
+  color: red;
+}
+
+#yes-circle span {
+  color: var(--green);
+}
+
+@keyframes moveleft {
+  from {
+    margin-left: 0;
+  }
+  to {
+    margin-left: -1000px;
+  }
+}
+
+@keyframes moveright {
+  from {
+    margin-left: 0;
+  }
+  to {
+    margin-left: 1000px;
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 1;
+  }
+  to {
+    opacity: 0;
+  }
 }

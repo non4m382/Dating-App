@@ -1,10 +1,11 @@
-header a {
-  float: left;
-  color: var(--red);
+
+
+#back {
+  left: -300px;
 }
 
-header a:last-child {
-  float: right;
+#setting {
+  right: 20px;
 }
 
 img {
