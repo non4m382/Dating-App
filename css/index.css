@@ -20,11 +20,15 @@ body {
 }
 
 .container {
-  background-image: linear-gradient(#ff9090, #e05857);
+  /* background-image: linear-gradient(#ff9090, #e05857); */
+  background-image: url(../img/hinh-avatar-cap-den-tay-tao-hinh-trai-tim.png);
+  object-fit: cover;
   height: 844px;
   width: 390px;
   text-align: center;
   color: white;
+  background-size: cover;
+  background-position-x: center;
 }
 
 .container .logo {
