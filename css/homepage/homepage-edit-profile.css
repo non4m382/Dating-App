@@ -114,11 +114,11 @@ header div:last-child span:last-child {
 }
 
 .container .voice {
-  margin: 20px 0;
-  width: 390px;
+  /* margin: 20px 0; */
+  /* width: 390px; */
   margin-left: -18px;
-  box-shadow: 0px 2px 4px rgb(50 50 50 / 15%), 0px -2px 4px rgb(50 50 50 / 15%);
-  padding: 20px 0;
+  /* box-shadow: 0px 2px 4px rgb(50 50 50 / 15%), 0px -2px 4px rgb(50 50 50 / 15%); */
+  /* padding: 20px 0; */
 }
 
 .container .voice h5 {
@@ -139,7 +139,7 @@ header div:last-child span:last-child {
 
 .container .about-me input {
   height: 80px;
-  width: 350px;
+  width: 340px;
   border: 0;
   background-image: url("data:image/svg+xml,%3csvg width='100%25' height='100%25' xmlns='http://www.w3.org/2000/svg'%3e%3crect width='100%25' height='100%25' fill='none' stroke='%23B9B9B9FF' stroke-width='4' stroke-dasharray='6%2c 8' stroke-dashoffset='0' stroke-linecap='square'/%3e%3c/svg%3e");
   border-radius: 6px;
@@ -147,11 +147,12 @@ header div:last-child span:last-child {
 }
 
 .container .music {
-  margin: 20px 0;
+  /* margin: 20px 0;
   width: 390px;
-  margin-left: -18px;
+ 
   box-shadow: 0px 2px 4px rgb(50 50 50 / 15%), 0px -2px 4px rgb(50 50 50 / 15%);
-  padding: 20px 0;
+  padding: 20px 0; */
+  margin-left: -18px;
 }
 
 .container .music img {
