@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70" height="72" viewBox="0 0 70 72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #df5655;
+        stroke: #df5655;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+
+      .cls-4 {
+        fill: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_350" data-name="Group 350" transform="translate(-41 -685)">
+    <g id="Ellipse_35" data-name="Ellipse 35" class="cls-1" transform="translate(41 685)">
+      <ellipse class="cls-3" cx="35" cy="36" rx="35" ry="36"/>
+      <ellipse class="cls-4" cx="35" cy="36" rx="32.5" ry="33.5"/>
+    </g>
+    <path id="phone" class="cls-2" d="M2.046,11.989,2,11.851A35.616,35.616,0,0,1,0,2,2,2,0,0,1,2,0H7.993a4,4,0,0,1,4,4v4a4,4,0,0,1-4,4H6.32A32.079,32.079,0,0,0,23.979,29.647V27.975a4,4,0,0,1,4-4h4a4,4,0,0,1,4,4V33.97a2.332,2.332,0,0,1-2,2,30.815,30.815,0,0,1-9.991-2A36.272,36.272,0,0,1,2.046,11.989Z" transform="translate(101.433 721) rotate(135)"/>
+    <g id="Group_353" data-name="Group 353">
+      <path id="phone-2" data-name="phone" class="cls-2" d="M2.046,11.989,2,11.851A35.616,35.616,0,0,1,0,2,2,2,0,0,1,2,0H7.993a4,4,0,0,1,4,4v4a4,4,0,0,1-4,4H6.32A32.079,32.079,0,0,0,23.979,29.647V27.975a4,4,0,0,1,4-4h4a4,4,0,0,1,4,4V33.97a2.332,2.332,0,0,1-2,2,30.815,30.815,0,0,1-9.991-2A36.272,36.272,0,0,1,2.046,11.989Z" transform="translate(101.434 721) rotate(135)"/>
+    </g>
+  </g>
+</svg>

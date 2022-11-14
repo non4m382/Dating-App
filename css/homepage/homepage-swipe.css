@@ -168,9 +168,11 @@ footer a:first-child {
 @keyframes moveright {
   from {
     margin-left: 0;
+    opacity: 1;
   }
   to {
-    margin-left: 1000px;
+    margin-left: 10000px;
+    opacity: 0;
   }
 }
 

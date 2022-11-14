@@ -1,0 +1,54 @@
+@font-face {
+  font-family: Roobert;
+  src: url(../../font/Roobert-Regular.ttf);
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+
+@font-face {
+  font-family: Inter;
+  src: url(../../font/Inter-VariableFont_slnt_wght.ttf);
+}
+
+.container {
+  background-color: red;
+  background-image: url(../../img/homepage/chat/chat-1.jpg) ;
+  background-size: cover;
+  background-position-x:left;
+  background-position-x: -88px;
+}
+
+.container .top img {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 100px;
+  height: 120px;
+  border-radius: 4px;
+  border: 1px solid black;
+  object-fit: cover;
+}
+
+.container .top h5 {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.container .top p {
+  font-style: italic;
+  color: #707070;
+  font-size: 1.1rem;
+}
+
+.container .bottom {
+  position: fixed;
+  top: 720px;
+  width: 350px;
+  display: flex;
+  justify-content: space-evenly;
+}

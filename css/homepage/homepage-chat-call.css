@@ -1,0 +1,48 @@
+@font-face {
+  font-family: Roobert;
+  src: url(../../font/Roobert-Regular.ttf);
+}
+
+@font-face {
+  font-family: Comfortaa;
+  src: url(../../font/Comfortaa-VariableFont_wght.ttf);
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(../../font/Inter-VariableFont_slnt_wght.ttf);
+}
+
+.container {
+  background-color: #ffe2e2;
+}
+
+.container .top img {
+  width: 160px;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.container .top h5 {
+  font-weight: bold;
+  font-size: 1.3rem;
+}
+
+.container .top p {
+  font-style: italic;
+  color: #707070;
+  font-size: 1.1rem;
+}
+
+.container .bottom {
+  position: fixed;
+  top: 720px;
+  width: 350px;
+  display: flex;
+  justify-content: space-evenly;
+}

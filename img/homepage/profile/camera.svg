@@ -14,11 +14,11 @@
         fill: #fff;
       }
 
-      .cls-3 {
+      .cls-2 {
         fill-rule: evenodd;
       }
 
-      .cls-4 {
+      .cls-3 {
         font-size: 16px;
         font-family: SegoeUI, Segoe UI;
       }
