@@ -10,8 +10,9 @@ body a.top {
   padding-top: 20px;
 }
 
+
 img {
-  width: 360px;
+  width: 350px;
   height: 480px;
   object-fit: cover;
   border-radius: 8px;
